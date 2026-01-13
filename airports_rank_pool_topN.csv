@@ -1,0 +1,31 @@
+airport_code_std,airport_name_std,n_years,avg_enplanements_2018_2019,rank,top_n
+ATL,Hartsfield - Jackson Atlanta International,2,52685796.0,1,30
+LAX,Los Angeles International,2,42781577.0,2,30
+ORD,Chicago O'Hare International,2,40372575.0,3,30
+DFW,Dallas/Fort Worth International,2,34300186.0,4,30
+DEN,Denver International,2,32477943.0,5,30
+JFK,John F Kennedy International,2,30828712.0,6,30
+SFO,San Francisco International,2,27784973.5,7,30
+SEA,Seattle-Tacoma International,2,24513335.0,8,30
+LAS,McCarran International,2,24261686.5,9,30
+MCO,Orlando International,2,23882375.5,10,30
+CLT,Charlotte/Douglas International,2,23240818.5,11,30
+EWR,Newark Liberty International,2,22979182.5,12,30
+PHX,Phoenix Sky Harbor International,2,22028066.0,13,30
+IAH,George Bush Intercontinental/Houston,2,21531353.5,14,30
+MIA,Miami International,2,21221335.5,15,30
+BOS,General Edward Lawrence Logan International,2,20352949.0,16,30
+MSP,Minneapolis-St Paul International/Wold-Chamberlain,2,18777429.5,17,30
+DTW,Detroit Metropolitan Wayne County,2,17789938.5,18,30
+FLL,Fort Lauderdale/Hollywood International,2,17781660.0,19,30
+PHL,Philadelphia International,2,15649529.5,20,30
+LGA,La Guardia,2,15226051.0,21,30
+BWI,Baltimore/Washington International Thurgood Marshall,2,13328251.5,22,30
+SLC,Salt Lake City International,2,12533785.5,23,30
+SAN,San Diego International,2,12411458.0,24,30
+IAD,Washington Dulles International,2,11752870.0,25,30
+DCA,Ronald Reagan Washington National,2,11481112.5,26,30
+TPA,Tampa International,2,10673635.0,27,30
+MDW,Chicago Midway International,2,10379899.5,28,30
+HNL,Honolulu International,2,10002913.5,29,30
+PDX,Portland International,2,9801138.0,30,30

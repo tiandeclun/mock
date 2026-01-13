@@ -1,0 +1,693 @@
+airport_code_std,airport_name_std,n_years_observed,first_year,last_year,missing_years_count,in_model_pool,in_rank_pool_topN
+ABE,Lehigh Valley International,25,2000,2024,0,True,False
+ABI,Abilene Regional,25,2000,2024,0,True,False
+ABQ,Albuquerque International Sunport,25,2000,2024,0,True,False
+ABR,Aberdeen Regional,25,2000,2024,0,True,False
+ABY,Southwest Georgia Regional,25,2000,2024,0,True,False
+ACK,Nantucket Memorial,25,2000,2024,0,True,False
+ACT,Waco Regional,25,2000,2024,0,True,False
+ACV,Arcata,25,2000,2024,0,True,False
+ACY,Atlantic City International,25,2000,2024,0,True,False
+ADQ,Kodiak,25,2000,2024,0,True,False
+AEX,Alexandria International,25,2000,2024,0,True,False
+AGS,Augusta Regional at Bush Field,25,2000,2024,0,True,False
+AKN,King Salmon,25,2000,2024,0,True,False
+ALB,Albany International,25,2000,2024,0,True,False
+ALO,Waterloo Regional,25,2000,2024,0,True,False
+ALS,San Luis Valley Regional/Bergman Field,25,2000,2024,0,True,False
+ALW,Walla Walla Regional,25,2000,2024,0,True,False
+AMA,Rick Husband Amarillo International,25,2000,2024,0,True,False
+ANC,Ted Stevens Anchorage International,25,2000,2024,0,True,False
+ANI,Aniak,25,2000,2024,0,True,False
+APN,Alpena County Regional,25,2000,2024,0,True,False
+ASE,Aspen-Pitkin County/Sardy Field,25,2000,2024,0,True,False
+ATL,Hartsfield - Jackson Atlanta International,25,2000,2024,0,True,True
+ATW,Outagamie County Regional,25,2000,2024,0,True,False
+AUS,Austin-Bergstrom International,25,2000,2024,0,True,False
+AVL,Asheville Regional,25,2000,2024,0,True,False
+AZO,Kalamazoo/Battle Creek International,25,2000,2024,0,True,False
+BDL,Bradley International,25,2000,2024,0,True,False
+BET,Bethel,25,2000,2024,0,True,False
+BFF,Western Nebraska Regional/William B Heilig Field,25,2000,2024,0,True,False
+BFI,Boeing Field/King County International,25,2000,2024,0,True,False
+BFL,Meadows Field,25,2000,2024,0,True,False
+BGM,Greater Binghamton/Edwin A Link Field,25,2000,2024,0,True,False
+BGR,Bangor International,25,2000,2024,0,True,False
+BHB,Hancock County-Bar Harbor,25,2000,2024,0,True,False
+BHM,Birmingham-Shuttlesworth International,25,2000,2024,0,True,False
+BIL,Billings Logan International,25,2000,2024,0,True,False
+BIS,Bismarck Municipal,25,2000,2024,0,True,False
+BLI,Bellingham International,25,2000,2024,0,True,False
+BMI,Central IL Regional Airport at Bloomington-Normal,25,2000,2024,0,True,False
+BNA,Nashville International,25,2000,2024,0,True,False
+BPT,Jack Brooks Regional,25,2000,2024,0,True,False
+BQK,Brunswick Golden Isles,25,2000,2024,0,True,False
+BQN,Rafael Hernandez,25,2000,2024,0,True,False
+BRD,Brainerd Lakes Regional,25,2000,2024,0,True,False
+BRO,Brownsville/South Padre Island International,25,2000,2024,0,True,False
+BRW,Wiley Post-Will Rogers Memorial,25,2000,2024,0,True,False
+BTM,Bert Mooney,25,2000,2024,0,True,False
+BTR,"Baton Rouge Metropolitan, Ryan Field",25,2000,2024,0,True,False
+BTV,Burlington International,25,2000,2024,0,True,False
+BUF,Buffalo Niagara International,25,2000,2024,0,True,False
+BUR,Bob Hope,25,2000,2024,0,True,False
+BWI,Baltimore/Washington International Thurgood Marshall,25,2000,2024,0,True,True
+BZN,Bozeman Yellowstone International,25,2000,2024,0,True,False
+CAE,Columbia Metropolitan,25,2000,2024,0,True,False
+CAK,Akron-Canton Regional,25,2000,2024,0,True,False
+CDB,Cold Bay,25,2000,2024,0,True,False
+CDC,Cedar City Regional,25,2000,2024,0,True,False
+CDV,Merle K (Mudhole) Smith,25,2000,2024,0,True,False
+CEC,Jack McNamara Field,25,2000,2024,0,True,False
+CHA,Lovell Field,25,2000,2024,0,True,False
+CHO,Charlottesville-Albemarle,25,2000,2024,0,True,False
+CHS,Charleston AFB/International,25,2000,2024,0,True,False
+CID,The Eastern Iowa,25,2000,2024,0,True,False
+CKB,North Central West Virginia,25,2000,2024,0,True,False
+CLE,Cleveland-Hopkins International,25,2000,2024,0,True,False
+CLL,Easterwood Field,25,2000,2024,0,True,False
+CLT,Charlotte/Douglas International,25,2000,2024,0,True,True
+CMH,Port Columbus International,25,2000,2024,0,True,False
+CMI,University of Illinois-Willard,25,2000,2024,0,True,False
+COS,City of Colorado Springs Municipal,25,2000,2024,0,True,False
+CPR,Casper/Natrona County International,25,2000,2024,0,True,False
+CRP,Corpus Christi International,25,2000,2024,0,True,False
+CRW,Yeager,25,2000,2024,0,True,False
+CSG,Columbus,25,2000,2024,0,True,False
+CVG,Cincinnati/Northern Kentucky International,25,2000,2024,0,True,False
+CWA,Central Wisconsin,25,2000,2024,0,True,False
+DAB,Daytona Beach International,25,2000,2024,0,True,False
+DAL,Dallas Love Field,25,2000,2024,0,True,False
+DAY,James M Cox Dayton International,25,2000,2024,0,True,False
+DBQ,Dubuque Regional,25,2000,2024,0,True,False
+DEN,Denver International,25,2000,2024,0,True,True
+DFW,Dallas/Fort Worth International,25,2000,2024,0,True,True
+DHN,Dothan Regional,25,2000,2024,0,True,False
+DIK,Dickinson - Theodore Roosevelt Regional,25,2000,2024,0,True,False
+DLG,Dillingham,25,2000,2024,0,True,False
+DLH,Duluth International,25,2000,2024,0,True,False
+DRO,Durango-La Plata County,25,2000,2024,0,True,False
+DSM,Des Moines International,25,2000,2024,0,True,False
+DTW,Detroit Metropolitan Wayne County,25,2000,2024,0,True,True
+DUT,Unalaska,25,2000,2024,0,True,False
+EAR,Kearney Regional,25,2000,2024,0,True,False
+EAT,Pangborn Memorial,25,2000,2024,0,True,False
+EAU,Chippewa Valley Regional,25,2000,2024,0,True,False
+EGE,Eagle County Regional,25,2000,2024,0,True,False
+EKO,Elko Regional,25,2000,2024,0,True,False
+ELM,Elmira/Corning Regional,25,2000,2024,0,True,False
+ELP,El Paso International,25,2000,2024,0,True,False
+ENA,Kenai Municipal,25,2000,2024,0,True,False
+ENM,Emmonak,25,2000,2024,0,True,False
+ERI,Erie International/Tom Ridge Field,25,2000,2024,0,True,False
+ESC,Delta County,25,2000,2024,0,True,False
+EUG,Mahlon Sweet Field,25,2000,2024,0,True,False
+EWN,Coastal Carolina Regional,25,2000,2024,0,True,False
+EWR,Newark Liberty International,25,2000,2024,0,True,True
+EYW,Key West International,25,2000,2024,0,True,False
+FAI,Fairbanks International,25,2000,2024,0,True,False
+FAR,Hector International,25,2000,2024,0,True,False
+FAT,Fresno Yosemite International,25,2000,2024,0,True,False
+FAY,Fayetteville Regional/Grannis Field,25,2000,2024,0,True,False
+FHR,Friday Harbor,25,2000,2024,0,True,False
+FLG,Flagstaff Pulliam,25,2000,2024,0,True,False
+FLL,Fort Lauderdale/Hollywood International,25,2000,2024,0,True,True
+FLO,Florence Regional,25,2000,2024,0,True,False
+FNT,Bishop International,25,2000,2024,0,True,False
+FSD,Joe Foss Field,25,2000,2024,0,True,False
+FSM,Fort Smith Regional,25,2000,2024,0,True,False
+FWA,Fort Wayne International,25,2000,2024,0,True,False
+FYU,Fort Yukon,25,2000,2024,0,True,False
+GAL,Edward G Pitka Sr,25,2000,2024,0,True,False
+GCC,Gillette-Campbell County,25,2000,2024,0,True,False
+GCK,Garden City Regional,25,2000,2024,0,True,False
+GEG,Spokane International,25,2000,2024,0,True,False
+GFK,Grand Forks International,25,2000,2024,0,True,False
+GGG,East Texas Regional,25,2000,2024,0,True,False
+GJT,Grand Junction Regional,25,2000,2024,0,True,False
+GNV,Gainesville Regional,25,2000,2024,0,True,False
+GPT,Gulfport-Biloxi International,25,2000,2024,0,True,False
+GRB,Austin Straubel International,25,2000,2024,0,True,False
+GRI,Central Nebraska Regional,25,2000,2024,0,True,False
+GRO,Benjamin Taisacan Manglona International,25,2000,2024,0,True,False
+GRR,Gerald R Ford International,25,2000,2024,0,True,False
+GSN,Francisco C Ada/Saipan International,25,2000,2024,0,True,False
+GSO,Piedmont Triad International,25,2000,2024,0,True,False
+GSP,Greenville Spartanburg International,25,2000,2024,0,True,False
+GST,Gustavus,25,2000,2024,0,True,False
+GTF,Great Falls International,25,2000,2024,0,True,False
+GTR,Golden Triangle Regional,25,2000,2024,0,True,False
+GUC,Gunnison-Crested Butte Regional,25,2000,2024,0,True,False
+GUM,Guam International,25,2000,2024,0,True,False
+HDN,Yampa Valley,25,2000,2024,0,True,False
+HIB,Range Regional,25,2000,2024,0,True,False
+HLN,Helena Regional,25,2000,2024,0,True,False
+HNH,Hoonah,25,2000,2024,0,True,False
+HNL,Honolulu International,25,2000,2024,0,True,True
+HNS,Haines,25,2000,2024,0,True,False
+HOM,Homer,25,2000,2024,0,True,False
+HOU,William P Hobby,25,2000,2024,0,True,False
+HPN,Westchester County,25,2000,2024,0,True,False
+HRL,Valley International,25,2000,2024,0,True,False
+HSV,Huntsville International-Carl T Jones Field,25,2000,2024,0,True,False
+HTS,Tri-State/Milton J Ferguson Field,25,2000,2024,0,True,False
+HVN,Tweed-New Haven,25,2000,2024,0,True,False
+HXD,Hilton Head,25,2000,2024,0,True,False
+HYA,Barnstable Municipal-Boardman/Polando Field,25,2000,2024,0,True,False
+HYS,Hays Regional,25,2000,2024,0,True,False
+IAD,Washington Dulles International,25,2000,2024,0,True,True
+IAH,George Bush Intercontinental/Houston,25,2000,2024,0,True,True
+ICT,Wichita Mid-Continent,25,2000,2024,0,True,False
+IDA,Idaho Falls Regional,25,2000,2024,0,True,False
+ILI,Iliamna,25,2000,2024,0,True,False
+ILM,Wilmington International,25,2000,2024,0,True,False
+IMT,Ford,25,2000,2024,0,True,False
+IND,Indianapolis International,25,2000,2024,0,True,False
+INL,Falls International,25,2000,2024,0,True,False
+ISP,Long Island MacArthur,25,2000,2024,0,True,False
+ITH,Ithaca Tompkins Regional,25,2000,2024,0,True,False
+ITO,Hilo International,25,2000,2024,0,True,False
+JAC,Jackson Hole,25,2000,2024,0,True,False
+JAN,Jackson-Medgar Wiley Evers International,25,2000,2024,0,True,False
+JAX,Jacksonville International,25,2000,2024,0,True,False
+JFK,John F Kennedy International,25,2000,2024,0,True,True
+JLN,Joplin Regional,25,2000,2024,0,True,False
+JNU,Juneau International,25,2000,2024,0,True,False
+JST,John Murtha Johnstown-Cambria County,25,2000,2024,0,True,False
+KOA,Kona International at Keahole,25,2000,2024,0,True,False
+KTN,Ketchikan International,25,2000,2024,0,True,False
+LAN,Capital Region International,25,2000,2024,0,True,False
+LAR,Laramie Regional,25,2000,2024,0,True,False
+LAS,McCarran International,25,2000,2024,0,True,True
+LAW,Lawton-Fort Sill Regional,25,2000,2024,0,True,False
+LAX,Los Angeles International,25,2000,2024,0,True,True
+LBB,Lubbock Preston Smith International,25,2000,2024,0,True,False
+LCH,Lake Charles Regional,25,2000,2024,0,True,False
+LEB,Lebanon Municipal,25,2000,2024,0,True,False
+LEX,Blue Grass,25,2000,2024,0,True,False
+LFT,Lafayette Regional,25,2000,2024,0,True,False
+LGA,La Guardia,25,2000,2024,0,True,True
+LGB,Long Beach /Daugherty Field/,25,2000,2024,0,True,False
+LIH,Lihue,25,2000,2024,0,True,False
+LIT,Adams Field,25,2000,2024,0,True,False
+LNK,Lincoln,25,2000,2024,0,True,False
+LNY,Lanai,25,2000,2024,0,True,False
+LRD,Laredo International,25,2000,2024,0,True,False
+LSE,La Crosse Regional,25,2000,2024,0,True,False
+LWB,Greenbrier Valley,25,2000,2024,0,True,False
+LWS,Lewiston-Nez Perce County,25,2000,2024,0,True,False
+LYH,Lynchburg Regional/Preston Glenn Field,25,2000,2024,0,True,False
+MAF,Midland International,25,2000,2024,0,True,False
+MAZ,Eugenio Maria De Hostos,25,2000,2024,0,True,False
+MBS,MBS International,25,2000,2024,0,True,False
+MCI,Kansas City International,25,2000,2024,0,True,False
+MCO,Orlando International,25,2000,2024,0,True,True
+MDT,Harrisburg International,25,2000,2024,0,True,False
+MDW,Chicago Midway International,25,2000,2024,0,True,True
+MEI,Key Field,25,2000,2024,0,True,False
+MEM,Memphis International,25,2000,2024,0,True,False
+MFE,McAllen Miller International,25,2000,2024,0,True,False
+MFR,Rogue Valley International - Medford,25,2000,2024,0,True,False
+MGM,Montgomery Regional (Dannelly Field),25,2000,2024,0,True,False
+MGW,Morgantown Municipal-Walter L. Bill Hart Field,25,2000,2024,0,True,False
+MHK,Manhattan Regional,25,2000,2024,0,True,False
+MHT,Manchester,25,2000,2024,0,True,False
+MIA,Miami International,25,2000,2024,0,True,True
+MKE,General Mitchell International,25,2000,2024,0,True,False
+MKG,Muskegon County,25,2000,2024,0,True,False
+MKK,Molokai,25,2000,2024,0,True,False
+MLB,Melbourne International,25,2000,2024,0,True,False
+MLI,Quad City International,25,2000,2024,0,True,False
+MLU,Monroe Regional,25,2000,2024,0,True,False
+MOB,Mobile Regional,25,2000,2024,0,True,False
+MOT,Minot International,25,2000,2024,0,True,False
+MRI,Merrill Field,25,2000,2024,0,True,False
+MRY,Monterey Regional,25,2000,2024,0,True,False
+MSN,Dane County Regional-Truax Field,25,2000,2024,0,True,False
+MSO,Missoula International,25,2000,2024,0,True,False
+MSP,Minneapolis-St Paul International/Wold-Chamberlain,25,2000,2024,0,True,True
+MSY,Louis Armstrong New Orleans International,25,2000,2024,0,True,False
+MTJ,Montrose Regional,25,2000,2024,0,True,False
+MVY,Martha's Vineyard,25,2000,2024,0,True,False
+MWA,Williamson County Regional,25,2000,2024,0,True,False
+MYR,Myrtle Beach International,25,2000,2024,0,True,False
+OAJ,Albert J Ellis,25,2000,2024,0,True,False
+OAK,Metropolitan Oakland International,25,2000,2024,0,True,False
+OGG,Kahului,25,2000,2024,0,True,False
+OKC,Will Rogers World,25,2000,2024,0,True,False
+OMA,Eppley Airfield,25,2000,2024,0,True,False
+OME,Nome,25,2000,2024,0,True,False
+ONT,Ontario International,25,2000,2024,0,True,False
+ORD,Chicago O'Hare International,25,2000,2024,0,True,True
+ORF,Norfolk International,25,2000,2024,0,True,False
+OTH,Southwest Oregon Regional,25,2000,2024,0,True,False
+OTZ,Ralph Wien Memorial,25,2000,2024,0,True,False
+PAH,Barkley Regional,25,2000,2024,0,True,False
+PDT,Eastern Oregon Regional at Pendleton,25,2000,2024,0,True,False
+PDX,Portland International,25,2000,2024,0,True,True
+PGA,Page Municipal,25,2000,2024,0,True,False
+PGV,Pitt-Greenville,25,2000,2024,0,True,False
+PHF,Newport News/Williamsburg International,25,2000,2024,0,True,False
+PHL,Philadelphia International,25,2000,2024,0,True,True
+PHX,Phoenix Sky Harbor International,25,2000,2024,0,True,True
+PIA,General Downing - Peoria International,25,2000,2024,0,True,False
+PIB,Hattiesburg-Laurel Regional,25,2000,2024,0,True,False
+PIE,St Pete-Clearwater International,25,2000,2024,0,True,False
+PIH,Pocatello Regional,25,2000,2024,0,True,False
+PIR,Pierre Regional,25,2000,2024,0,True,False
+PIT,Pittsburgh International,25,2000,2024,0,True,False
+PKB,Mid-Ohio Valley Regional,25,2000,2024,0,True,False
+PLN,Pellston Regional Airport of Emmet County,25,2000,2024,0,True,False
+PNS,Pensacola International,25,2000,2024,0,True,False
+PPG,Pago Pago International,25,2000,2024,0,True,False
+PQI,Northern Maine Regional Airport at Presque Isle,25,2000,2024,0,True,False
+PRC,Ernest A. Love Field,25,2000,2024,0,True,False
+PSC,Tri-Cities,25,2000,2024,0,True,False
+PSE,Mercedita,25,2000,2024,0,True,False
+PSG,Petersburg James A Johnson,25,2000,2024,0,True,False
+PSP,Palm Springs International,25,2000,2024,0,True,False
+PUW,Pullman/Moscow Regional,25,2000,2024,0,True,False
+PVD,Theodore Francis Green State,25,2000,2024,0,True,False
+PWM,Portland International Jetport,25,2000,2024,0,True,False
+RDD,Redding Municipal,25,2000,2024,0,True,False
+RDM,Roberts Field,25,2000,2024,0,True,False
+RDU,Raleigh-Durham International,25,2000,2024,0,True,False
+RHI,Rhinelander-Oneida County,25,2000,2024,0,True,False
+RIW,Riverton Regional,25,2000,2024,0,True,False
+RKS,Rock Springs-Sweetwater County,25,2000,2024,0,True,False
+RNO,Reno/Tahoe International,25,2000,2024,0,True,False
+ROA,Roanoke Regional/Woodrum Field,25,2000,2024,0,True,False
+ROC,Greater Rochester International,25,2000,2024,0,True,False
+ROW,Roswell International Air Center,25,2000,2024,0,True,False
+RST,Rochester International,25,2000,2024,0,True,False
+RSW,Southwest Florida International,25,2000,2024,0,True,False
+SAT,San Antonio International,25,2000,2024,0,True,False
+SAV,Savannah/Hilton Head International,25,2000,2024,0,True,False
+SAW,Sawyer International,25,2000,2024,0,True,False
+SBA,Santa Barbara Municipal,25,2000,2024,0,True,False
+SBN,South Bend International,25,2000,2024,0,True,False
+SBY,Salisbury-Ocean City Wicomico Regional,25,2000,2024,0,True,False
+SCC,Deadhorse,25,2000,2024,0,True,False
+SDF,Louisville International-Standiford Field,25,2000,2024,0,True,False
+SEA,Seattle-Tacoma International,25,2000,2024,0,True,True
+SFB,Orlando Sanford International,25,2000,2024,0,True,False
+SGF,Springfield-Branson National,25,2000,2024,0,True,False
+SHV,Shreveport Regional,25,2000,2024,0,True,False
+SIT,Sitka Rocky Gutierrez,25,2000,2024,0,True,False
+SJC,Norman Y Mineta San Jose International,25,2000,2024,0,True,False
+SJT,San Angelo Regional/Mathis Field,25,2000,2024,0,True,False
+SJU,Luis Munoz Marin International,25,2000,2024,0,True,False
+SLC,Salt Lake City International,25,2000,2024,0,True,True
+SMF,Sacramento International,25,2000,2024,0,True,False
+SNA,John Wayne Airport-Orange County,25,2000,2024,0,True,False
+SPI,Abraham Lincoln Capital,25,2000,2024,0,True,False
+SPS,Sheppard AFB/Wichita Falls Municipal,25,2000,2024,0,True,False
+SRQ,Sarasota/Bradenton International,25,2000,2024,0,True,False
+STT,Cyril E King,25,2000,2024,0,True,False
+STX,Henry E Rohlsen,25,2000,2024,0,True,False
+SUN,Friedman Memorial,25,2000,2024,0,True,False
+SUX,Sioux Gateway/Col. Bud Day Field,25,2000,2024,0,True,False
+SWF,Stewart International,25,2000,2024,0,True,False
+SYR,Syracuse Hancock International,25,2000,2024,0,True,False
+TLH,Tallahassee Regional,25,2000,2024,0,True,False
+TNI,Tinian International,25,2000,2024,0,True,False
+TOL,Toledo Express,25,2000,2024,0,True,False
+TRI,Tri-Cities Regional TN/VA,25,2000,2024,0,True,False
+TUL,Tulsa International,25,2000,2024,0,True,False
+TUP,Tupelo Regional,25,2000,2024,0,True,False
+TUS,Tucson International,25,2000,2024,0,True,False
+TWF,Joslin Field - Magic Valley Regional,25,2000,2024,0,True,False
+TXK,Texarkana Regional-Webb Field,25,2000,2024,0,True,False
+TYR,Tyler Pounds Regional,25,2000,2024,0,True,False
+TYS,McGhee Tyson,25,2000,2024,0,True,False
+UNK,Unalakleet,25,2000,2024,0,True,False
+UNV,University Park,25,2000,2024,0,True,False
+VLD,Valdosta Regional,25,2000,2024,0,True,False
+VPS,Eglin AFB,25,2000,2024,0,True,False
+WRG,Wrangell,25,2000,2024,0,True,False
+WYS,Yellowstone,25,2000,2024,0,True,False
+XNA,Northwest Arkansas Regional,25,2000,2024,0,True,False
+YAK,Yakutat,25,2000,2024,0,True,False
+YKM,Yakima Air Terminal/McAllister Field,25,2000,2024,0,True,False
+AUG,Augusta State,24,2000,2024,1,True,False
+AVP,Wilkes-Barre/Scranton International,24,2001,2024,1,True,False
+BID,Block Island State,24,2000,2024,1,True,False
+BJI,Bemidji Regional,24,2001,2024,1,True,False
+BOI,Boise Air Terminal/Gowen Field,24,2001,2024,1,True,False
+BOS,General Edward Lawrence Logan International,24,2001,2024,1,True,True
+BVK,Buckland,24,2000,2024,1,True,False
+CEZ,Cortez Municipal,24,2000,2024,1,True,False
+CIU,Chippewa County International,24,2001,2024,1,True,False
+CMX,Houghton County Memorial,24,2001,2024,1,True,False
+COD,Yellowstone Regional,24,2001,2024,1,True,False
+COU,Columbia Regional,24,2001,2024,1,True,False
+CYS,Cheyenne Regional/Jerry Olson Field,24,2000,2024,1,True,False
+DCA,Ronald Reagan Washington National,24,2001,2024,1,True,True
+DUJ,Dubois Regional,24,2000,2024,1,True,False
+DVL,Devils Lake Regional,24,2000,2024,1,True,False
+EVV,Evansville Regional,24,2001,2024,1,True,False
+FOD,Fort Dodge Regional,24,2000,2024,1,True,False
+HGR,Hagerstown Regional-Richard A Henson Field,24,2000,2024,1,True,False
+HPB,Hooper Bay,24,2000,2024,1,True,False
+IPL,Imperial County,24,2000,2024,1,True,False
+KSM,St Mary's,24,2000,2024,1,True,False
+LBE,Arnold Palmer Regional,24,2000,2024,1,True,False
+LBF,North Platte Regional Airport Lee Bird Field,24,2001,2024,1,True,False
+LBL,Liberal Mid-America Regional,24,2000,2024,1,True,False
+MCW,Mason City Municipal,24,2000,2024,1,True,False
+ORS,Orcas Island,24,2000,2024,1,True,False
+PBI,Palm Beach International,24,2001,2024,1,True,False
+PHO,Point Hope,24,2000,2024,1,True,False
+PVC,Provincetown Municipal,24,2001,2024,1,True,False
+RAP,Rapid City Regional,24,2001,2024,1,True,False
+RFD,Chicago/Rockford International,24,2000,2024,1,True,False
+RIC,Richmond International,24,2001,2024,1,True,False
+RKD,Knox County Regional,24,2000,2024,1,True,False
+SAF,Santa Fe Municipal,24,2000,2024,1,True,False
+SAN,San Diego International,24,2001,2024,1,True,True
+SBP,San Luis County Regional,24,2001,2024,1,True,False
+SDY,Sidney-Richland Municipal,24,2000,2024,1,True,False
+SFO,San Francisco International,24,2001,2024,1,True,True
+SGU,St George Municipal,24,2000,2024,1,True,False
+SGY,Skagway,24,2000,2024,1,True,False
+SHD,Shenandoah Valley Regional,24,2001,2024,1,True,False
+SIG,Fernando Luis Ribas Dominicci,24,2001,2024,1,True,False
+SLN,Salina Regional,24,2000,2024,1,True,False
+SMX,Santa Maria Public/Capt G Allan Hancock Field,24,2001,2024,1,True,False
+SOV,Seldovia,24,2001,2024,1,True,False
+STL,Lambert-St Louis International,24,2001,2024,1,True,False
+TPA,Tampa International,24,2001,2024,1,True,True
+TVC,Cherry Capital,24,2001,2024,1,True,False
+VDZ,Valdez Pioneer Field,24,2000,2024,1,True,False
+VQS,Antonio Rivera Rodriguez,24,2001,2024,1,True,False
+WLK,Selawik,24,2000,2024,1,True,False
+WST,Westerly State,24,2000,2024,1,True,False
+WTK,Noatak,24,2000,2024,1,True,False
+0AK,Pilot Station,23,2000,2024,2,True,False
+A61,Tuntutuliak,23,2000,2024,2,True,False
+AWI,Wainwright,23,2000,2024,2,True,False
+BRL,Southeast Iowa Regional,23,2000,2024,2,True,False
+DUY,Kongiganak,23,2000,2024,2,True,False
+GAM,Gambell,23,2000,2024,2,True,False
+GLH,Mid Delta Regional,23,2000,2024,2,True,False
+IIK,Kipnuk,23,2001,2024,2,True,False
+KVL,Kivalina,23,2000,2024,2,True,False
+OOK,Toksook Bay,23,2000,2024,2,True,False
+OWB,Owensboro-Daviess County,23,2000,2024,2,True,False
+PUB,Pueblo Memorial,23,2000,2023,2,False,False
+SCM,Scammon Bay,23,2000,2024,2,True,False
+SDP,Sand Point,23,2000,2024,2,True,False
+SHH,Shishmaref,23,2000,2024,2,True,False
+SHR,Sheridan County,23,2000,2024,2,True,False
+SLK,Adirondack Regional,23,2000,2024,2,True,False
+SOW,Show Low Regional,23,2000,2024,2,True,False
+SVA,Savoonga,23,2000,2024,2,True,False
+TBN,Waynesville-St Robert Regional Forney Field,23,2000,2024,2,True,False
+VAK,Chevak,23,2000,2024,2,True,False
+Z09,Kasigluk,23,2000,2024,2,True,False
+AOO,Altoona-Blair County,22,2000,2024,3,True,False
+AQH,Quinhagak,22,2002,2024,3,True,False
+ATY,Watertown Regional,22,2000,2024,3,True,False
+CGI,Cape Girardeau Regional,22,2000,2024,3,True,False
+CNY,Canyonlands Field,22,2001,2024,3,True,False
+DDC,Dodge City Regional,22,2000,2024,3,True,False
+DEC,Decatur,22,2000,2024,3,True,False
+HLA,Huslia,22,2000,2024,3,True,False
+IAN,Bob Baker Memorial,22,2000,2024,3,True,False
+IPT,Williamsport Regional,22,2000,2021,3,False,False
+MOU,Mountain Village,22,2000,2024,3,True,False
+MSL,Northwest Alabama Regional,22,2000,2024,3,True,False
+SCK,Stockton Metropolitan,22,2001,2024,3,True,False
+STC,St. Cloud Regional,22,2000,2024,3,True,False
+TTN,Trenton Mercer,22,2000,2024,3,True,False
+UIN,Quincy Regional-Baldwin Field,22,2001,2024,3,True,False
+AKP,Anaktuvuk Pass,21,2001,2024,4,True,False
+BFD,Bradford Regional,21,2000,2024,4,True,False
+CFK,Chefornak,21,2000,2024,4,True,False
+CNM,Cavern City Air Terminal,21,2000,2024,4,True,False
+CRQ,McClellan-Palomar,21,2000,2024,4,True,False
+D76,Robert /Bob/ Curtis Memorial,21,2002,2024,4,True,False
+EEK,Eek,21,2002,2024,4,True,False
+EWB,New Bedford Regional,21,2000,2021,4,False,False
+GPI,Glacier Park International,21,2004,2024,4,True,False
+GRK,Robert Gray AAF,21,2004,2024,4,True,False
+KLG,Kalskag,21,2000,2024,4,True,False
+LCK,Rickenbacker International,21,2003,2024,4,True,False
+MCG,McGrath,21,2000,2024,4,True,False
+MSS,Massena International-Richards Field,21,2000,2024,4,True,False
+PSM,Portsmouth International at Pease,21,2000,2024,4,True,False
+TEX,Telluride Regional,21,2000,2024,4,True,False
+VCT,Victoria Regional,21,2000,2024,4,True,False
+16A,Nunapitchuk,20,2000,2024,5,True,False
+1G4,Grand Canyon West,20,2001,2024,5,True,False
+2A9,Kotlik,20,2000,2024,5,True,False
+AUK,Alakanuk,20,2000,2024,5,True,False
+BLV,Scott AFB/Midamerica,20,2000,2024,5,True,False
+GCN,Grand Canyon National Park,20,2000,2019,5,False,False
+HRO,Boone County,20,2001,2024,5,True,False
+IFP,Laughlin/Bullhead International,20,2001,2022,5,False,False
+LHD,Lake Hood,20,2000,2020,5,False,False
+LNS,Lancaster,20,2000,2024,5,True,False
+MCE,Merced Regional/Macready Field,20,2000,2024,5,True,False
+STS,Charles M Schulz - Sonoma County,20,2000,2024,5,True,False
+TVF,Thief River Falls Regional,20,2000,2024,5,True,False
+ART,Watertown International,19,2000,2024,6,False,False
+BKW,Raleigh County Memorial,19,2000,2024,6,False,False
+JMS,Jamestown Regional,19,2000,2024,6,False,False
+RUT,Rutland - Southern Vermont Regional,19,2000,2024,6,False,False
+SNP,St Paul Island,19,2000,2019,6,False,False
+TLT,Tuluksak,19,2000,2024,6,False,False
+GGV,Kwigillingok,18,2000,2024,7,False,False
+ISN,Sloulin Field International,18,2000,2017,7,False,False
+IWA,Phoenix-Mesa Gateway,18,2007,2024,7,False,False
+IWD,Gogebic-Iron County,18,2004,2024,7,False,False
+MDM,Marshall Don Hunter Sr,18,2004,2024,7,False,False
+MKL,McKellar-Sipes Regional,18,2000,2024,7,False,False
+NYL,Yuma MCAS/Yuma International,18,2007,2024,7,False,False
+PBG,Plattsburgh International,18,2007,2024,7,False,False
+PGD,Punta Gorda,18,2007,2024,7,False,False
+TAL,Ralph M Calhoun Memorial,18,2000,2017,7,False,False
+VEL,Vernal Regional,18,2000,2024,7,False,False
+YNG,Youngstown-Warren Regional,18,2000,2024,7,False,False
+BVU,Boulder City Municipal,17,2008,2024,8,False,False
+CGA,Craig,17,2000,2016,8,False,False
+FMN,Four Corners Regional,17,2000,2017,8,False,False
+FNL,Fort Collins-Loveland Municipal,17,2003,2022,8,False,False
+FOE,Forbes Field,17,2000,2019,8,False,False
+HOT,Memorial Field,17,2001,2024,8,False,False
+KWT,Kwethluk,17,2000,2024,8,False,False
+LMT,Klamath Falls,17,2000,2017,8,False,False
+RSH,Russian Mission,17,2000,2024,8,False,False
+2A3,Larsen Bay,16,2000,2023,9,False,False
+JBR,Jonesboro Municipal,16,2000,2022,9,False,False
+MCN,Middle Georgia Regional,16,2000,2024,9,False,False
+MTM,Metlakatla,16,2000,2016,9,False,False
+ORH,Worcester Regional,16,2000,2024,9,False,False
+BED,Laurence G Hanscom Field,15,2000,2022,10,False,False
+BTI,Barter Island LRRS,15,2002,2019,10,False,False
+CPX,Benjamin Rivera Noriega,15,2003,2024,10,False,False
+DRT,Del Rio International,15,2005,2023,10,False,False
+ECP,Northwest Florida Beaches International,15,2010,2024,10,False,False
+HOB,Lea County Regional,15,2001,2024,10,False,False
+IAG,Niagara Falls International,15,2010,2024,10,False,False
+JHW,Chautauqua County/Jamestown,15,2000,2014,10,False,False
+MMH,Mammoth Yosemite,15,2009,2024,10,False,False
+MOD,Modesto City County-Harry Sham Field,15,2000,2014,10,False,False
+NUL,Nulato,15,2000,2019,10,False,False
+OGS,Ogdensburg International,15,2007,2024,10,False,False
+RVR,Jose Aponte De La Torre,15,2010,2024,10,False,False
+WBB,Stebbins,15,2000,2019,10,False,False
+Z13,Akiachak,15,2000,2024,10,False,False
+CIC,Chico Municipal,14,2001,2014,11,False,False
+CLM,William R Fairchild International,14,2000,2014,11,False,False
+CVX,Charlevoix Municipal,14,2000,2014,11,False,False
+IRK,Kirksville Regional,14,2011,2024,11,False,False
+IYK,Inyokern,14,2000,2013,11,False,False
+PVU,Provo Municipal,14,2011,2024,11,False,False
+AQT,Nuiqsut,13,2000,2019,12,False,False
+MBA,Manokotak,13,2000,2016,12,False,False
+OLF,L M Clayton,13,2012,2024,12,False,False
+VGT,North Las Vegas,13,2000,2015,12,False,False
+AKW,Klawock,12,2001,2024,13,False,False
+CVN,Clovis Municipal,12,2000,2024,13,False,False
+CXF,Coldfoot,12,2012,2024,13,False,False
+ELI,Elim,12,2000,2019,13,False,False
+GGW,Wokal Field/Glasgow-Valley County,12,2001,2024,13,False,False
+HNM,Hana,12,2000,2024,13,False,False
+JQF,Concord-Padgett Regional,12,2013,2024,13,False,False
+KVC,King Cove,12,2000,2022,13,False,False
+LUP,Kalaupapa,12,2007,2024,13,False,False
+OGD,Ogden-Hinckley,12,2012,2024,13,False,False
+6R7,Old Harbor,11,2001,2017,14,False,False
+AHN,Athens/Ben Epps,11,2000,2010,14,False,False
+ELD,South Arkansas Regional at Goodwin Field,11,2012,2024,14,False,False
+MBL,Manistee County-Blacker,11,2004,2024,14,False,False
+OXR,Oxnard,11,2000,2010,14,False,False
+SVC,Grant County,11,2008,2024,14,False,False
+WRL,Worland Municipal,11,2000,2013,14,False,False
+GYY,Gary/Chicago International,10,2000,2021,15,False,False
+ILG,New Castle,10,2000,2024,15,False,False
+KEB,Nanwalek,10,2003,2012,15,False,False
+KTB,Thorne Bay,10,2000,2014,15,False,False
+MUE,Waimea-Kohala,10,2003,2024,15,False,False
+PFN,Panama City-Bay County International,10,2000,2009,15,False,False
+VIS,Visalia Municipal,10,2001,2015,15,False,False
+APF,Naples Municipal,9,2000,2008,16,False,False
+EWU,Newtok,9,2002,2017,16,False,False
+KAE,Kake,9,2000,2022,16,False,False
+SWO,Stillwater Regional,9,2016,2024,16,False,False
+4A2,Atmautluak,8,2007,2024,17,False,False
+ATK,Atqasuk Edward Burnell Sr Memorial,8,2001,2019,17,False,False
+KKA,Koyuk Alfred Adams,8,2002,2019,17,False,False
+MWH,Grant County International,8,2000,2009,17,False,False
+PGM,Port Graham,8,2003,2010,17,False,False
+HVR,Havre City-County,7,2017,2024,18,False,False
+ISO,Kinston Regional Jetport at Stallings Field,7,2000,2014,18,False,False
+PAE,Snohomish County (Paine Field),7,2018,2024,18,False,False
+SMK,St Michael,7,2006,2019,18,False,False
+TOG,Togiak,7,2000,2024,18,False,False
+VRB,Vero Beach Regional,7,2016,2024,18,False,False
+W33,Friday Harbor,7,2014,2024,18,False,False
+XWA,Williston Basin International,7,2018,2024,18,False,False
+YUM,Yuma MCAS/Yuma International,7,2000,2006,18,False,False
+AIA,Alliance Municipal,6,2018,2024,19,False,False
+CDR,Chadron Municipal,6,2016,2022,19,False,False
+FKL,Venango Regional,6,2000,2005,19,False,False
+FXE,Fort Lauderdale Exec,6,2019,2024,19,False,False
+HHR,Jack Northrop Field/Hawthorne Municipal,6,2019,2024,19,False,False
+HII,Lake Havasu City,6,2001,2006,19,False,False
+LAF,Purdue University,6,2000,2024,19,False,False
+SGJ,Northeast Florida Regional,6,2007,2017,19,False,False
+AFM,Ambler,5,2001,2019,20,False,False
+BBG,Branson,5,2020,2024,20,False,False
+BCE,Bryce Canyon,5,2000,2006,20,False,False
+EFD,Ellington Field,5,2000,2004,20,False,False
+GDV,Dawson Community,5,2014,2022,20,False,False
+GUP,Gallup Municipal,5,2000,2024,20,False,False
+ILE,Killeen Municipal,5,2000,2004,20,False,False
+KDK,Kodiak Municipal,5,2000,2004,20,False,False
+RDG,Reading Regional/Carl A Spaatz Field,5,2000,2004,20,False,False
+VCV,Southern California Logistics,5,2002,2014,20,False,False
+X95,Diego Jimenez Torres,5,2000,2004,20,False,False
+2C7,Shaktoolik,4,2005,2019,21,False,False
+4K5,Ouzinkie,4,2009,2012,21,False,False
+74S,Anacortes,4,2000,2004,21,False,False
+AFE,Kake,4,2019,2024,21,False,False
+AKI,Akiak,4,2005,2024,21,False,False
+BFM,Mobile International,4,2019,2024,21,False,False
+FCA,Glacier Park International,4,2000,2003,21,False,False
+FRG,Republic,4,2011,2014,21,False,False
+GON,Groton-New London,4,2000,2003,21,False,False
+HND,Henderson Executive,4,2003,2016,21,False,False
+IGM,Kingman,4,2000,2003,21,False,False
+KAL,Kaltag,4,2002,2006,21,False,False
+KTS,Brevig Mission,4,2006,2019,21,False,False
+SHG,Shungnak,4,2001,2019,21,False,False
+SKX,Taos Regional,4,2001,2022,21,False,False
+SLE,McNary Field,4,2007,2024,21,False,False
+SOP,Moore County,4,2000,2007,21,False,False
+SQL,San Carlos,4,2019,2022,21,False,False
+UTA,Tunica Municipal,4,2006,2015,21,False,False
+61B,Boulder City Municipal,3,2005,2007,22,False,False
+6N5,East 34th Street,3,2007,2009,22,False,False
+ADK,Adak,3,2018,2022,22,False,False
+BIH,Bishop,3,2022,2024,22,False,False
+ENV,Wendover,3,2005,2008,22,False,False
+FAQ,Fitiuta,3,2001,2016,22,False,False
+GPZ,Grand Rapids/ Itasca Co- Gordon Newstrom Fld,3,2001,2003,22,False,False
+HKY,Hickory Regional,3,2000,2005,22,False,False
+LUK,Cincinnati Municipal Airport Lunken Field,3,2014,2017,22,False,False
+MCK,McCook Ben Nelson Regional,3,2007,2024,22,False,False
+N93,Golovin,3,2002,2007,22,False,False
+PCW,Carl R Keller Field,3,2000,2002,22,False,False
+PMD,Palmdale Regional/USAF Plant 42,3,2005,2008,22,False,False
+PNC,Ponca City Regional,3,2000,2002,22,False,False
+PTK,Oakland County International,3,2012,2015,22,False,False
+SBD,San Bernardino International,3,2022,2024,22,False,False
+SJX,Beaver Island,3,2012,2014,22,False,False
+T44,Trident Basin,3,2001,2009,22,False,False
+WDG,Enid Woodring Regional,3,2000,2002,22,False,False
+YIP,Willow Run,3,2011,2018,22,False,False
+17Z,Manokotak,2,2001,2003,23,False,False
+3A5,Marshall Don Hunter Sr,2,2002,2003,23,False,False
+3W2,Put-in-Bay,2,2001,2002,23,False,False
+4KA,Tununak,2,2015,2019,23,False,False
+6A8,Allakaket,2,2007,2011,23,False,False
+A85,Kwigillingok,2,2001,2003,23,False,False
+AGN,Angoon,2,2000,2001,23,False,False
+BKL,Burke Lakefront,2,2015,2017,23,False,False
+BPK,Baxter County Regional,2,2000,2001,23,False,False
+CCR,Buchanan Field,2,2017,2018,23,False,False
+CEF,Westover ARB/Metropolitan,2,2007,2008,23,False,False
+CGX,Merrill C Meigs,2,2000,2001,23,False,False
+ELY,Ely /Yelland Field/,2,2005,2006,23,False,False
+FHU,Sierra Vista Municipal-Libby AAF,2,2000,2001,23,False,False
+HON,Huron Regional,2,2000,2007,23,False,False
+HSL,Huslia,2,2001,2002,23,False,False
+HYL,Hollis,2,2000,2001,23,False,False
+JRF,Kalaeloa (John Rodgers Field),2,2015,2016,23,False,False
+LAM,Los Alamos,2,2002,2014,23,False,False
+MLL,Marshall,2,2000,2001,23,False,False
+MMU,Morristown Municipal,2,2011,2014,23,False,False
+OLM,Olympia,2,2003,2004,23,False,False
+ORI,Port Lions,2,2001,2009,23,False,False
+ORV,Robert /Bob/ Curtis Memorial,2,2000,2001,23,False,False
+OSH,Wittman Regional,2,2000,2001,23,False,False
+PLB,Clinton Co,2,2000,2001,23,False,False
+POU,Dutchess County,2,2000,2001,23,False,False
+TEB,Teterboro,2,2006,2007,23,False,False
+UCA,Oneida County,2,2000,2001,23,False,False
+VEE,Venetie,2,2010,2011,23,False,False
+WMO,White Mountain,2,2006,2007,23,False,False
+X44,Miami,2,2000,2001,23,False,False
+Z08,Ofu,2,2000,2001,23,False,False
+3T7,Middle Bass Island,1,2002,2002,24,False,False
+5Z9,LAKE BROOKS,1,2000,2000,24,False,False
+71V,MONUMENT VALLEY,1,2000,2000,24,False,False
+76S,WES LUPIEN,1,2000,2000,24,False,False
+7AK,Akutan,1,2019,2019,24,False,False
+9K2,KOKHANOK,1,2000,2000,24,False,False
+AED,RED DOG,1,2000,2000,24,False,False
+ALM,ALAMOGORDO-WHITE SANDS REGIO,1,2000,2000,24,False,False
+AST,Astoria Regional,1,2010,2010,24,False,False
+BEH,SOUTHWEST MICHIGAN REGIONAL,1,2000,2000,24,False,False
+BIT,BETTLES,1,2000,2000,24,False,False
+BLF,MERCER COUNTY,1,2000,2000,24,False,False
+BLG,BELUGA,1,2000,2000,24,False,False
+CBE,GREATER CUMBERLAND REGIONAL,1,2000,2000,24,False,False
+DEE,Deering,1,2006,2006,24,False,False
+DET,DETROIT CITY,1,2000,2000,24,False,False
+DTS,Destin Exec,1,2022,2022,24,False,False
+DXZ,St George Municipal,1,2010,2010,24,False,False
+HI36,TAU,1,2000,2000,24,False,False
+IGT,Nightmute,1,2015,2015,24,False,False
+INT,Smith Reynolds,1,2002,2002,24,False,False
+JHM,KAPALUA,1,2000,2000,24,False,False
+JON,JOHNSTON ATOLL,1,2000,2000,24,False,False
+JRB,Port Authority Downtown Manhattan/Wall St,1,2007,2007,24,False,False
+KNW,NEW STUYAHOK,1,2000,2000,24,False,False
+L41,MARBLE CANYON,1,2000,2000,24,False,False
+LAL,Lakeland Linder International,1,2024,2024,24,False,False
+LBX,Brazoria Co,1,2003,2003,24,False,False
+LRU,LAS CRUCES INTERNATIONAL,1,2000,2000,24,False,False
+MER,Castle,1,2012,2012,24,False,False
+MTH,THE FLORIDA KEYS MARATHON,1,2000,2000,24,False,False
+OFK,KARL STEFAN MEMORIAL,1,2000,2000,24,False,False
+ONP,Newport Municipal,1,2010,2010,24,False,False
+PDK,Dekalb-Peachtree,1,2017,2017,24,False,False
+RNT,Renton Municipal,1,2021,2021,24,False,False
+RWI,ROCKY MOUNT-WILSON RGNL,1,2000,2000,24,False,False
+S31,Lopez Island,1,2022,2022,24,False,False
+S60,KENMORE AIR HARBOR INC.,1,2000,2000,24,False,False
+SDL,Scottsdale,1,2005,2005,24,False,False
+SKE,KETCHIKAN HARBOR,1,2000,2000,24,False,False
+SKY,GRIFFING SANDUSKY,1,2000,2000,24,False,False
+SPW,SPENCER MUNI,1,2000,2000,24,False,False
+TCL,Tuscaloosa Regional,1,2018,2018,24,False,False
+TER,Teller,1,2006,2006,24,False,False
+TPO,PORT ALSWORTH,1,2000,2000,24,False,False
+UBW,UGNU-KUPARUK,1,2000,2000,24,False,False
+UUO,Willow,1,2008,2008,24,False,False
+W39,ROCHE HARBOR,1,2000,2000,24,False,False
+X66,CHARLOTTE AMALIE HARBOR,1,2000,2000,24,False,False
+X67,CHRISTIANSTED HARBOR-SSB,1,2000,2000,24,False,False

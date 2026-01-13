@@ -1,0 +1,1431 @@
+airport_code_std,airport_name_std,year,enplanements,covid_period,is_missing_imputed,data_flag
+ABE,Lehigh Valley International,2020,187530.0,1,0,ok
+ABI,Abilene Regional,2020,44202.0,1,0,ok
+ABQ,Albuquerque International Sunport,2020,868922.0,1,0,ok
+ABR,Aberdeen Regional,2020,14854.0,1,0,ok
+ABY,Southwest Georgia Regional,2020,17222.0,1,0,ok
+ACK,Nantucket Memorial,2020,48058.0,1,0,ok
+ACT,Waco Regional,2020,27704.0,1,0,ok
+ACV,Arcata,2020,37979.0,1,0,ok
+ACY,Atlantic City International,2020,221490.0,1,0,ok
+ADQ,Kodiak,2020,40218.0,1,0,ok
+AEX,Alexandria International,2020,113513.0,1,0,ok
+AGS,Augusta Regional at Bush Field,2020,155450.0,1,0,ok
+AKN,King Salmon,2020,17254.0,1,0,ok
+AKW,Klawock,2020,10077.0,1,0,ok
+ALB,Albany International,2020,509428.0,1,0,ok
+ALO,Waterloo Regional,2020,7010.0,1,0,ok
+ALS,San Luis Valley Regional/Bergman Field,2020,4742.0,1,0,ok
+ALW,Walla Walla Regional,2020,18580.0,1,0,ok
+AMA,Rick Husband Amarillo International,2020,173469.0,1,0,ok
+ANC,Ted Stevens Anchorage International,2020,1157301.0,1,0,ok
+ANI,Aniak,2020,2672.0,1,0,ok
+APN,Alpena County Regional,2020,6533.0,1,0,ok
+ART,Watertown International,2020,11671.0,1,0,ok
+ASE,Aspen-Pitkin County/Sardy Field,2020,183883.0,1,0,ok
+ATL,Hartsfield - Jackson Atlanta International,2020,20559866.0,1,0,ok
+ATW,Outagamie County Regional,2020,184128.0,1,0,ok
+ATY,Watertown Regional,2020,7225.0,1,0,ok
+AUS,Austin-Bergstrom International,2020,3141505.0,1,0,ok
+AVL,Asheville Regional,2020,359256.0,1,0,ok
+AVP,Wilkes-Barre/Scranton International,2020,107622.0,1,0,ok
+AZO,Kalamazoo/Battle Creek International,2020,52559.0,1,0,ok
+BBG,Branson,2020,7068.0,1,0,ok
+BDL,Bradley International,2020,1150033.0,1,0,ok
+BET,Bethel,2020,64648.0,1,0,ok
+BFF,Western Nebraska Regional/William B Heilig Field,2020,8933.0,1,0,ok
+BFI,Boeing Field/King County International,2020,14761.0,1,0,ok
+BFL,Meadows Field,2020,83933.0,1,0,ok
+BFM,Mobile International,2020,5939.0,1,0,ok
+BGM,Greater Binghamton/Edwin A Link Field,2020,8504.0,1,0,ok
+BGR,Bangor International,2020,134022.0,1,0,ok
+BHB,Hancock County-Bar Harbor,2020,2838.0,1,0,ok
+BHM,Birmingham-Shuttlesworth International,2020,622789.0,1,0,ok
+BID,Block Island State,2020,12399.0,1,0,ok
+BIL,Billings Logan International,2020,240713.0,1,0,ok
+BIS,Bismarck Municipal,2020,151966.0,1,0,ok
+BJI,Bemidji Regional,2020,16783.0,1,0,ok
+BKW,Raleigh County Memorial,2020,5002.0,1,0,ok
+BLI,Bellingham International,2020,98256.0,1,0,ok
+BLV,Scott AFB/Midamerica,2020,108765.0,1,0,ok
+BMI,Central IL Regional Airport at Bloomington-Normal,2020,89759.0,1,0,ok
+BNA,Nashville International,2020,4013995.0,1,0,ok
+BOI,Boise Air Terminal/Gowen Field,2020,991241.0,1,0,ok
+BOS,General Edward Lawrence Logan International,2020,6035452.0,1,0,ok
+BPT,Jack Brooks Regional,2020,15792.0,1,0,ok
+BQK,Brunswick Golden Isles,2020,19123.0,1,0,ok
+BQN,Rafael Hernandez,2020,75321.0,1,0,ok
+BRD,Brainerd Lakes Regional,2020,12103.0,1,0,ok
+BRL,Southeast Iowa Regional,2020,2681.0,1,0,ok
+BRO,Brownsville/South Padre Island International,2020,93145.0,1,0,ok
+BRW,Wiley Post-Will Rogers Memorial,2020,22238.0,1,0,ok
+BTM,Bert Mooney,2020,12460.0,1,0,ok
+BTR,"Baton Rouge Metropolitan, Ryan Field",2020,176327.0,1,0,ok
+BTV,Burlington International,2020,200182.0,1,0,ok
+BUF,Buffalo Niagara International,2020,703401.0,1,0,ok
+BUR,Bob Hope,2020,1056838.0,1,0,ok
+BVU,Boulder City Municipal,2020,52530.0,1,0,ok
+BWI,Baltimore/Washington International Thurgood Marshall,2020,5451355.0,1,0,ok
+BZN,Bozeman Yellowstone International,2020,445381.0,1,0,ok
+CAE,Columbia Metropolitan,2020,271923.0,1,0,ok
+CAK,Akron-Canton Regional,2020,139509.0,1,0,ok
+CDB,Cold Bay,2020,6323.0,1,0,ok
+CDC,Cedar City Regional,2020,5883.0,1,0,ok
+CDV,Merle K (Mudhole) Smith,2020,10264.0,1,0,ok
+CEC,Jack McNamara Field,2020,4022.0,1,0,ok
+CEZ,Cortez Municipal,2020,5603.0,1,0,ok
+CGI,Cape Girardeau Regional,2020,4573.0,1,0,ok
+CHA,Lovell Field,2020,223725.0,1,0,ok
+CHO,Charlottesville-Albemarle,2020,131771.0,1,0,ok
+CHS,Charleston AFB/International,2020,944660.0,1,0,ok
+CID,The Eastern Iowa,2020,310028.0,1,0,ok
+CIU,Chippewa County International,2020,10719.0,1,0,ok
+CKB,North Central West Virginia,2020,18468.0,1,0,ok
+CLE,Cleveland-Hopkins International,2020,1990156.0,1,0,ok
+CLL,Easterwood Field,2020,41790.0,1,0,ok
+CLT,Charlotte/Douglas International,2020,12952869.0,1,0,ok
+CMH,Port Columbus International,2020,1577596.0,1,0,ok
+CMI,University of Illinois-Willard,2020,35874.0,1,0,ok
+CMX,Houghton County Memorial,2020,11774.0,1,0,ok
+CNM,Cavern City Air Terminal,2020,2961.0,1,0,ok
+CNY,Canyonlands Field,2020,7822.0,1,0,ok
+COD,Yellowstone Regional,2020,20624.0,1,0,ok
+COS,City of Colorado Springs Municipal,2020,364178.0,1,0,ok
+COU,Columbia Regional,2020,51191.0,1,0,ok
+CPR,Casper/Natrona County International,2020,44923.0,1,0,ok
+CPX,Benjamin Rivera Noriega,2020,13268.0,1,0,ok
+CRP,Corpus Christi International,2020,162161.0,1,0,ok
+CRW,Yeager,2020,89512.0,1,0,ok
+CSG,Columbus,2020,29686.0,1,0,ok
+CVG,Cincinnati/Northern Kentucky International,2020,1729395.0,1,0,ok
+CVN,Clovis Municipal,2020,2643.0,1,0,ok
+CWA,Central Wisconsin,2020,57163.0,1,0,ok
+CYS,Cheyenne Regional/Jerry Olson Field,2020,3439.0,1,0,ok
+DAB,Daytona Beach International,2020,156172.0,1,0,ok
+DAL,Dallas Love Field,2020,3669930.0,1,0,ok
+DAY,James M Cox Dayton International,2020,315051.0,1,0,ok
+DBQ,Dubuque Regional,2020,11503.0,1,0,ok
+DCA,Ronald Reagan Washington National,2020,3573489.0,1,0,ok
+DDC,Dodge City Regional,2020,2698.0,1,0,ok
+DEC,Decatur,2020,3429.0,1,0,ok
+DEN,Denver International,2020,16243216.0,1,0,ok
+DFW,Dallas/Fort Worth International,2020,18593421.0,1,0,ok
+DHN,Dothan Regional,2020,23968.0,1,0,ok
+DIK,Dickinson - Theodore Roosevelt Regional,2020,11407.0,1,0,ok
+DLG,Dillingham,2020,13900.0,1,0,ok
+DLH,Duluth International,2020,64979.0,1,0,ok
+DRO,Durango-La Plata County,2020,99445.0,1,0,ok
+DRT,Del Rio International,2020,8296.0,1,0,ok
+DSM,Des Moines International,2020,632022.0,1,0,ok
+DTW,Detroit Metropolitan Wayne County,2020,6822324.0,1,0,ok
+DUT,Unalaska,2020,10072.0,1,0,ok
+DVL,Devils Lake Regional,2020,3983.0,1,0,ok
+EAR,Kearney Regional,2020,11816.0,1,0,ok
+EAT,Pangborn Memorial,2020,27009.0,1,0,ok
+EAU,Chippewa Valley Regional,2020,10118.0,1,0,ok
+ECP,Northwest Florida Beaches International,2020,398792.0,1,0,ok
+EGE,Eagle County Regional,2020,143124.0,1,0,ok
+EKO,Elko Regional,2020,10351.0,1,0,ok
+ELM,Elmira/Corning Regional,2020,51345.0,1,0,ok
+ELP,El Paso International,2020,760165.0,1,0,ok
+ENA,Kenai Municipal,2020,33053.0,1,0,ok
+ENM,Emmonak,2020,3059.0,1,0,ok
+ERI,Erie International/Tom Ridge Field,2020,42790.0,1,0,ok
+ESC,Delta County,2020,8204.0,1,0,ok
+EUG,Mahlon Sweet Field,2020,266957.0,1,0,ok
+EVV,Evansville Regional,2020,104883.0,1,0,ok
+EWN,Coastal Carolina Regional,2020,52510.0,1,0,ok
+EWR,Newark Liberty International,2020,7985474.0,1,0,ok
+EYW,Key West International,2020,336023.0,1,0,ok
+FAI,Fairbanks International,2020,233484.0,1,0,ok
+FAR,Hector International,2020,244019.0,1,0,ok
+FAT,Fresno Yosemite International,2020,486081.0,1,0,ok
+FAY,Fayetteville Regional/Grannis Field,2020,117213.0,1,0,ok
+FHR,Friday Harbor,2020,6720.0,1,0,ok
+FLG,Flagstaff Pulliam,2020,61158.0,1,0,ok
+FLL,Fort Lauderdale/Hollywood International,2020,8015744.0,1,0,ok
+FLO,Florence Regional,2020,13373.0,1,0,ok
+FNT,Bishop International,2020,175638.0,1,0,ok
+FOD,Fort Dodge Regional,2020,3702.0,1,0,ok
+FSD,Joe Foss Field,2020,292089.0,1,0,ok
+FSM,Fort Smith Regional,2020,36864.0,1,0,ok
+FWA,Fort Wayne International,2020,213125.0,1,0,ok
+FXE,Fort Lauderdale Exec,2020,4096.0,1,0,ok
+FYU,Fort Yukon,2020,2791.0,1,0,ok
+GAL,Edward G Pitka Sr,2020,4166.0,1,0,ok
+GCC,Gillette-Campbell County,2020,14473.0,1,0,ok
+GCK,Garden City Regional,2020,16421.0,1,0,ok
+GEG,Spokane International,2020,913291.0,1,0,ok
+GFK,Grand Forks International,2020,46745.0,1,0,ok
+GGG,East Texas Regional,2020,14632.0,1,0,ok
+GGW,Wokal Field/Glasgow-Valley County,2020,2705.0,1,0,ok
+GJT,Grand Junction Regional,2020,139140.0,1,0,ok
+GLH,Mid Delta Regional,2020,2785.0,1,0,ok
+GNV,Gainesville Regional,2020,123999.0,1,0,ok
+GPI,Glacier Park International,2020,215443.0,1,0,ok
+GPT,Gulfport-Biloxi International,2020,193134.0,1,0,ok
+GRB,Austin Straubel International,2020,141407.0,1,0,ok
+GRI,Central Nebraska Regional,2020,36858.0,1,0,ok
+GRK,Robert Gray AAF,2020,102324.0,1,0,ok
+GRO,Benjamin Taisacan Manglona International,2020,5456.0,1,0,ok
+GRR,Gerald R Ford International,2020,857092.0,1,0,ok
+GSN,Francisco C Ada/Saipan International,2020,128204.0,1,0,ok
+GSO,Piedmont Triad International,2020,378973.0,1,0,ok
+GSP,Greenville Spartanburg International,2020,509956.0,1,0,ok
+GST,Gustavus,2020,2959.0,1,0,ok
+GTF,Great Falls International,2020,79153.0,1,0,ok
+GTR,Golden Triangle Regional,2020,21918.0,1,0,ok
+GUC,Gunnison-Crested Butte Regional,2020,28862.0,1,0,ok
+GUM,Guam International,2020,274436.0,1,0,ok
+HDN,Yampa Valley,2020,87902.0,1,0,ok
+HGR,Hagerstown Regional-Richard A Henson Field,2020,14373.0,1,0,ok
+HHR,Jack Northrop Field/Hawthorne Municipal,2020,2713.0,1,0,ok
+HIB,Range Regional,2020,8432.0,1,0,ok
+HLA,Huslia,2020,4382.0,1,0,ok
+HLN,Helena Regional,2020,46298.0,1,0,ok
+HNH,Hoonah,2020,4472.0,1,0,ok
+HNL,Honolulu International,2020,3126391.0,1,0,ok
+HNS,Haines,2020,4093.0,1,0,ok
+HOB,Lea County Regional,2020,9080.0,1,0,ok
+HOM,Homer,2020,9677.0,1,0,ok
+HOT,Memorial Field,2020,3023.0,1,0,ok
+HOU,William P Hobby,2020,3127178.0,1,0,ok
+HPN,Westchester County,2020,232325.0,1,0,ok
+HRL,Valley International,2020,172878.0,1,0,ok
+HRO,Boone County,2020,3493.0,1,0,ok
+HSV,Huntsville International-Carl T Jones Field,2020,268790.0,1,0,ok
+HTS,Tri-State/Milton J Ferguson Field,2020,58582.0,1,0,ok
+HVN,Tweed-New Haven,2020,11432.0,1,0,ok
+HXD,Hilton Head,2020,73615.0,1,0,ok
+HYA,Barnstable Municipal-Boardman/Polando Field,2020,9779.0,1,0,ok
+HYS,Hays Regional,2020,5388.0,1,0,ok
+IAD,Washington Dulles International,2020,3862658.0,1,0,ok
+IAG,Niagara Falls International,2020,41959.0,1,0,ok
+IAH,George Bush Intercontinental/Houston,2020,8682558.0,1,0,ok
+ICT,Wichita Mid-Continent,2020,381825.0,1,0,ok
+IDA,Idaho Falls Regional,2020,101420.0,1,0,ok
+ILI,Iliamna,2020,2900.0,1,0,ok
+ILM,Wilmington International,2020,239752.0,1,0,ok
+IMT,Ford,2020,10464.0,1,0,ok
+IND,Indianapolis International,2020,1989126.0,1,0,ok
+INL,Falls International,2020,5884.0,1,0,ok
+IPL,Imperial County,2020,2716.0,1,0,ok
+IPT,Williamsport Regional,2020,6847.0,1,0,ok
+IRK,Kirksville Regional,2020,2905.0,1,0,ok
+ISP,Long Island MacArthur,2020,262983.0,1,0,ok
+ITH,Ithaca Tompkins Regional,2020,33093.0,1,0,ok
+ITO,Hilo International,2020,232503.0,1,0,ok
+IWA,Phoenix-Mesa Gateway,2020,597843.0,1,0,ok
+IWD,Gogebic-Iron County,2020,2541.0,1,0,ok
+JAC,Jackson Hole,2020,276297.0,1,0,ok
+JAN,Jackson-Medgar Wiley Evers International,2020,209230.0,1,0,ok
+JAX,Jacksonville International,2020,1367501.0,1,0,ok
+JBR,Jonesboro Municipal,2020,2605.0,1,0,ok
+JFK,John F Kennedy International,2020,8269819.0,1,0,ok
+JLN,Joplin Regional,2020,24944.0,1,0,ok
+JMS,Jamestown Regional,2020,6161.0,1,0,ok
+JNU,Juneau International,2020,164447.0,1,0,ok
+JQF,Concord-Padgett Regional,2020,86856.0,1,0,ok
+JST,John Murtha Johnstown-Cambria County,2020,3149.0,1,0,ok
+KOA,Kona International at Keahole,2020,625484.0,1,0,ok
+KTN,Ketchikan International,2020,65793.0,1,0,ok
+LAN,Capital Region International,2020,67197.0,1,0,ok
+LAR,Laramie Regional,2020,9227.0,1,0,ok
+LAS,McCarran International,2020,10584059.0,1,0,ok
+LAW,Lawton-Fort Sill Regional,2020,25090.0,1,0,ok
+LAX,Los Angeles International,2020,14055777.0,1,0,ok
+LBB,Lubbock Preston Smith International,2020,253126.0,1,0,ok
+LBE,Arnold Palmer Regional,2020,62470.0,1,0,ok
+LBF,North Platte Regional Airport Lee Bird Field,2020,7668.0,1,0,ok
+LBL,Liberal Mid-America Regional,2020,3117.0,1,0,ok
+LCH,Lake Charles Regional,2020,32088.0,1,0,ok
+LCK,Rickenbacker International,2020,104868.0,1,0,ok
+LEB,Lebanon Municipal,2020,3707.0,1,0,ok
+LEX,Blue Grass,2020,288536.0,1,0,ok
+LFT,Lafayette Regional,2020,119977.0,1,0,ok
+LGA,La Guardia,2020,4147116.0,1,0,ok
+LGB,Long Beach /Daugherty Field/,2020,504478.0,1,0,ok
+LHD,Lake Hood,2020,10763.0,1,0,ok
+LIH,Lihue,2020,492509.0,1,0,ok
+LIT,Adams Field,2020,469380.0,1,0,ok
+LNK,Lincoln,2020,52653.0,1,0,ok
+LNY,Lanai,2020,17128.0,1,0,ok
+LRD,Laredo International,2020,52612.0,1,0,ok
+LSE,La Crosse Regional,2020,44050.0,1,0,ok
+LWB,Greenbrier Valley,2020,3995.0,1,0,ok
+LWS,Lewiston-Nez Perce County,2020,15630.0,1,0,ok
+LYH,Lynchburg Regional/Preston Glenn Field,2020,47760.0,1,0,ok
+MAF,Midland International,2020,319570.0,1,0,ok
+MAZ,Eugenio Maria De Hostos,2020,4718.0,1,0,ok
+MBS,MBS International,2020,47393.0,1,0,ok
+MCE,Merced Regional/Macready Field,2020,4499.0,1,0,ok
+MCI,Kansas City International,2020,2167616.0,1,0,ok
+MCN,Middle Georgia Regional,2020,8341.0,1,0,ok
+MCO,Orlando International,2020,10467728.0,1,0,ok
+MCW,Mason City Municipal,2020,3503.0,1,0,ok
+MDT,Harrisburg International,2020,312258.0,1,0,ok
+MDW,Chicago Midway International,2020,4236603.0,1,0,ok
+MEI,Key Field,2020,9447.0,1,0,ok
+MEM,Memphis International,2020,1015981.0,1,0,ok
+MFE,McAllen Miller International,2020,191497.0,1,0,ok
+MFR,Rogue Valley International - Medford,2020,244996.0,1,0,ok
+MGM,Montgomery Regional (Dannelly Field),2020,85498.0,1,0,ok
+MGW,Morgantown Municipal-Walter L. Bill Hart Field,2020,3369.0,1,0,ok
+MHK,Manhattan Regional,2020,36577.0,1,0,ok
+MHT,Manchester,2020,305958.0,1,0,ok
+MIA,Miami International,2020,8786007.0,1,0,ok
+MKE,General Mitchell International,2020,1263385.0,1,0,ok
+MKG,Muskegon County,2020,5550.0,1,0,ok
+MKK,Molokai,2020,30740.0,1,0,ok
+MKL,McKellar-Sipes Regional,2020,2840.0,1,0,ok
+MLB,Melbourne International,2020,108934.0,1,0,ok
+MLI,Quad City International,2020,149533.0,1,0,ok
+MLU,Monroe Regional,2020,56068.0,1,0,ok
+MMH,Mammoth Yosemite,2020,8314.0,1,0,ok
+MOB,Mobile Regional,2020,154993.0,1,0,ok
+MOT,Minot International,2020,85147.0,1,0,ok
+MRI,Merrill Field,2020,23025.0,1,0,ok
+MRY,Monterey Regional,2020,86795.0,1,0,ok
+MSL,Northwest Alabama Regional,2020,3508.0,1,0,ok
+MSN,Dane County Regional-Truax Field,2020,412729.0,1,0,ok
+MSO,Missoula International,2020,209035.0,1,0,ok
+MSP,Minneapolis-St Paul International/Wold-Chamberlain,2020,7069720.0,1,0,ok
+MSY,Louis Armstrong New Orleans International,2020,2632606.0,1,0,ok
+MTJ,Montrose Regional,2020,100887.0,1,0,ok
+MVY,Martha's Vineyard,2020,18462.0,1,0,ok
+MWA,Williamson County Regional,2020,5783.0,1,0,ok
+MYR,Myrtle Beach International,2020,545122.0,1,0,ok
+NYL,Yuma MCAS/Yuma International,2020,57930.0,1,0,ok
+OAJ,Albert J Ellis,2020,105962.0,1,0,ok
+OAK,Metropolitan Oakland International,2020,2271294.0,1,0,ok
+OGD,Ogden-Hinckley,2020,8887.0,1,0,ok
+OGG,Kahului,2020,1135141.0,1,0,ok
+OGS,Ogdensburg International,2020,9259.0,1,0,ok
+OKC,Will Rogers World,2020,934842.0,1,0,ok
+OLF,L M Clayton,2020,2755.0,1,0,ok
+OMA,Eppley Airfield,2020,1036245.0,1,0,ok
+OME,Nome,2020,30274.0,1,0,ok
+ONT,Ontario International,2020,1237946.0,1,0,ok
+ORD,Chicago O'Hare International,2020,14606034.0,1,0,ok
+ORF,Norfolk International,2020,884882.0,1,0,ok
+ORH,Worcester Regional,2020,20464.0,1,0,ok
+ORS,Orcas Island,2020,4595.0,1,0,ok
+OTH,Southwest Oregon Regional,2020,6785.0,1,0,ok
+OTZ,Ralph Wien Memorial,2020,30633.0,1,0,ok
+OWB,Owensboro-Daviess County,2020,9284.0,1,0,ok
+PAE,Snohomish County (Paine Field),2020,118204.0,1,0,ok
+PAH,Barkley Regional,2020,6560.0,1,0,ok
+PBG,Plattsburgh International,2020,43325.0,1,0,ok
+PBI,Palm Beach International,2020,1518732.0,1,0,ok
+PDT,Eastern Oregon Regional at Pendleton,2020,3546.0,1,0,ok
+PDX,Portland International,2020,3455877.0,1,0,ok
+PGA,Page Municipal,2020,8915.0,1,0,ok
+PGD,Punta Gorda,2020,596859.0,1,0,ok
+PGV,Pitt-Greenville,2020,18692.0,1,0,ok
+PHF,Newport News/Williamsburg International,2020,70384.0,1,0,ok
+PHL,Philadelphia International,2020,5753239.0,1,0,ok
+PHX,Phoenix Sky Harbor International,2020,10531436.0,1,0,ok
+PIA,General Downing - Peoria International,2020,159777.0,1,0,ok
+PIB,Hattiesburg-Laurel Regional,2020,9008.0,1,0,ok
+PIE,St Pete-Clearwater International,2020,697425.0,1,0,ok
+PIH,Pocatello Regional,2020,19395.0,1,0,ok
+PIR,Pierre Regional,2020,8017.0,1,0,ok
+PIT,Pittsburgh International,2020,1742406.0,1,0,ok
+PKB,Mid-Ohio Valley Regional,2020,2944.0,1,0,ok
+PLN,Pellston Regional Airport of Emmet County,2020,15814.0,1,0,ok
+PNS,Pensacola International,2020,577431.0,1,0,ok
+PPG,Pago Pago International,2020,12563.0,1,0,ok
+PQI,Northern Maine Regional Airport at Presque Isle,2020,5271.0,1,0,ok
+PRC,Ernest A. Love Field,2020,13029.0,1,0,ok
+PSC,Tri-Cities,2020,190322.0,1,0,ok
+PSE,Mercedita,2020,18643.0,1,0,ok
+PSG,Petersburg James A Johnson,2020,11726.0,1,0,ok
+PSM,Portsmouth International at Pease,2020,41737.0,1,0,ok
+PSP,Palm Springs International,2020,632282.0,1,0,ok
+PUB,Pueblo Memorial,2020,5384.0,1,0,ok
+PUW,Pullman/Moscow Regional,2020,32300.0,1,0,ok
+PVC,Provincetown Municipal,2020,2821.0,1,0,ok
+PVD,Theodore Francis Green State,2020,641518.0,1,0,ok
+PVU,Provo Municipal,2020,77217.0,1,0,ok
+PWM,Portland International Jetport,2020,394089.0,1,0,ok
+RAP,Rapid City Regional,2020,179119.0,1,0,ok
+RDD,Redding Municipal,2020,19270.0,1,0,ok
+RDM,Roberts Field,2020,224600.0,1,0,ok
+RDU,Raleigh-Durham International,2020,2337496.0,1,0,ok
+RFD,Chicago/Rockford International,2020,79674.0,1,0,ok
+RHI,Rhinelander-Oneida County,2020,13654.0,1,0,ok
+RIC,Richmond International,2020,847811.0,1,0,ok
+RIW,Riverton Regional,2020,7459.0,1,0,ok
+RKS,Rock Springs-Sweetwater County,2020,9930.0,1,0,ok
+RNO,Reno/Tahoe International,2020,976937.0,1,0,ok
+ROA,Roanoke Regional/Woodrum Field,2020,145061.0,1,0,ok
+ROC,Greater Rochester International,2020,412226.0,1,0,ok
+ROW,Roswell International Air Center,2020,24054.0,1,0,ok
+RST,Rochester International,2020,66100.0,1,0,ok
+RSW,Southwest Florida International,2020,2947139.0,1,0,ok
+RVR,Jose Aponte De La Torre,2020,17365.0,1,0,ok
+SAF,Santa Fe Municipal,2020,49856.0,1,0,ok
+SAN,San Diego International,2020,4637856.0,1,0,ok
+SAT,San Antonio International,2020,1919958.0,1,0,ok
+SAV,Savannah/Hilton Head International,2020,576827.0,1,0,ok
+SAW,Sawyer International,2020,26843.0,1,0,ok
+SBA,Santa Barbara Municipal,2020,193738.0,1,0,ok
+SBN,South Bend International,2020,209214.0,1,0,ok
+SBP,San Luis County Regional,2020,130928.0,1,0,ok
+SBY,Salisbury-Ocean City Wicomico Regional,2020,34247.0,1,0,ok
+SCC,Deadhorse,2020,67676.0,1,0,ok
+SCK,Stockton Metropolitan,2020,44386.0,1,0,ok
+SDF,Louisville International-Standiford Field,2020,785759.0,1,0,ok
+SDY,Sidney-Richland Municipal,2020,6965.0,1,0,ok
+SEA,Seattle-Tacoma International,2020,9462411.0,1,0,ok
+SFB,Orlando Sanford International,2020,759301.0,1,0,ok
+SFO,San Francisco International,2020,7745057.0,1,0,ok
+SGF,Springfield-Branson National,2020,292246.0,1,0,ok
+SGU,St George Municipal,2020,80562.0,1,0,ok
+SHD,Shenandoah Valley Regional,2020,6306.0,1,0,ok
+SHR,Sheridan County,2020,10166.0,1,0,ok
+SHV,Shreveport Regional,2020,153635.0,1,0,ok
+SIG,Fernando Luis Ribas Dominicci,2020,9778.0,1,0,ok
+SIT,Sitka Rocky Gutierrez,2020,38343.0,1,0,ok
+SJC,Norman Y Mineta San Jose International,2020,2283186.0,1,0,ok
+SJT,San Angelo Regional/Mathis Field,2020,35595.0,1,0,ok
+SJU,Luis Munoz Marin International,2020,2362851.0,1,0,ok
+SLC,Salt Lake City International,2020,5981032.0,1,0,ok
+SLN,Salina Regional,2020,10561.0,1,0,ok
+SMF,Sacramento International,2020,2710342.0,1,0,ok
+SMX,Santa Maria Public/Capt G Allan Hancock Field,2020,10745.0,1,0,ok
+SNA,John Wayne Airport-Orange County,2020,1824836.0,1,0,ok
+SOV,Seldovia,2020,3051.0,1,0,ok
+SOW,Show Low Regional,2020,3716.0,1,0,ok
+SPI,Abraham Lincoln Capital,2020,34486.0,1,0,ok
+SPS,Sheppard AFB/Wichita Falls Municipal,2020,21272.0,1,0,ok
+SQL,San Carlos,2020,2854.0,1,0,ok
+SRQ,Sarasota/Bradenton International,2020,615337.0,1,0,ok
+STC,St. Cloud Regional,2020,15676.0,1,0,ok
+STL,Lambert-St Louis International,2020,3041765.0,1,0,ok
+STS,Charles M Schulz - Sonoma County,2020,94288.0,1,0,ok
+STT,Cyril E King,2020,355238.0,1,0,ok
+STX,Henry E Rohlsen,2020,127985.0,1,0,ok
+SUN,Friedman Memorial,2020,46468.0,1,0,ok
+SUX,Sioux Gateway/Col. Bud Day Field,2020,17078.0,1,0,ok
+SVC,Grant County,2020,3010.0,1,0,ok
+SWF,Stewart International,2020,50030.0,1,0,ok
+SWO,Stillwater Regional,2020,12313.0,1,0,ok
+SYR,Syracuse Hancock International,2020,433775.0,1,0,ok
+TBN,Waynesville-St Robert Regional Forney Field,2020,9666.0,1,0,ok
+TEX,Telluride Regional,2020,3743.0,1,0,ok
+TLH,Tallahassee Regional,2020,180144.0,1,0,ok
+TNI,Tinian International,2020,17076.0,1,0,ok
+TOL,Toledo Express,2020,66057.0,1,0,ok
+TPA,Tampa International,2020,4966775.0,1,0,ok
+TRI,Tri-Cities Regional TN/VA,2020,96924.0,1,0,ok
+TTN,Trenton Mercer,2020,129536.0,1,0,ok
+TUL,Tulsa International,2020,664259.0,1,0,ok
+TUP,Tupelo Regional,2020,9981.0,1,0,ok
+TUS,Tucson International,2020,823465.0,1,0,ok
+TVC,Cherry Capital,2020,145139.0,1,0,ok
+TVF,Thief River Falls Regional,2020,2812.0,1,0,ok
+TWF,Joslin Field - Magic Valley Regional,2020,23528.0,1,0,ok
+TXK,Texarkana Regional-Webb Field,2020,17340.0,1,0,ok
+TYR,Tyler Pounds Regional,2020,29133.0,1,0,ok
+TYS,McGhee Tyson,2020,554685.0,1,0,ok
+UIN,Quincy Regional-Baldwin Field,2020,4929.0,1,0,ok
+UNK,Unalakleet,2020,4359.0,1,0,ok
+UNV,University Park,2020,74731.0,1,0,ok
+VCT,Victoria Regional,2020,2837.0,1,0,ok
+VEL,Vernal Regional,2020,5745.0,1,0,ok
+VLD,Valdosta Regional,2020,21808.0,1,0,ok
+VPS,Eglin AFB,2020,461177.0,1,0,ok
+VQS,Antonio Rivera Rodriguez,2020,23490.0,1,0,ok
+W33,Friday Harbor,2020,2563.0,1,0,ok
+WRG,Wrangell,2020,7102.0,1,0,ok
+WST,Westerly State,2020,12728.0,1,0,ok
+WYS,Yellowstone,2020,4602.0,1,0,ok
+XNA,Northwest Arkansas Regional,2020,346215.0,1,0,ok
+XWA,Williston Basin International,2020,31412.0,1,0,ok
+YAK,Yakutat,2020,5959.0,1,0,ok
+YKM,Yakima Air Terminal/McAllister Field,2020,31050.0,1,0,ok
+ABE,Lehigh Valley International,2021,355841.0,1,0,ok
+ABI,Abilene Regional,2021,75402.0,1,0,ok
+ABQ,Albuquerque International Sunport,2021,1688646.0,1,0,ok
+ABR,Aberdeen Regional,2021,21850.0,1,0,ok
+ABY,Southwest Georgia Regional,2021,31796.0,1,0,ok
+ACK,Nantucket Memorial,2021,135526.0,1,0,ok
+ACT,Waco Regional,2021,47541.0,1,0,ok
+ACV,Arcata,2021,94652.0,1,0,ok
+ACY,Atlantic City International,2021,426686.0,1,0,ok
+ADQ,Kodiak,2021,72905.0,1,0,ok
+AEX,Alexandria International,2021,144218.0,1,0,ok
+AFE,Kake,2021,2552.0,1,0,ok
+AGS,Augusta Regional at Bush Field,2021,251961.0,1,0,ok
+AIA,Alliance Municipal,2021,3543.0,1,0,ok
+AKN,King Salmon,2021,29914.0,1,0,ok
+AKW,Klawock,2021,14157.0,1,0,ok
+ALB,Albany International,2021,966201.0,1,0,ok
+ALO,Waterloo Regional,2021,14367.0,1,0,ok
+ALS,San Luis Valley Regional/Bergman Field,2021,11987.0,1,0,ok
+ALW,Walla Walla Regional,2021,39138.0,1,0,ok
+AMA,Rick Husband Amarillo International,2021,303904.0,1,0,ok
+ANC,Ted Stevens Anchorage International,2021,2184959.0,1,0,ok
+ANI,Aniak,2021,3935.0,1,0,ok
+AOO,Altoona-Blair County,2021,4278.0,1,0,ok
+APN,Alpena County Regional,2021,12486.0,1,0,ok
+AQH,Quinhagak,2021,3890.0,1,0,ok
+ART,Watertown International,2021,19920.0,1,0,ok
+ASE,Aspen-Pitkin County/Sardy Field,2021,248781.0,1,0,ok
+ATL,Hartsfield - Jackson Atlanta International,2021,36676010.0,1,0,ok
+ATW,Outagamie County Regional,2021,352006.0,1,0,ok
+ATY,Watertown Regional,2021,18419.0,1,0,ok
+AUG,Augusta State,2021,3836.0,1,0,ok
+AUS,Austin-Bergstrom International,2021,6666215.0,1,0,ok
+AVL,Asheville Regional,2021,722892.0,1,0,ok
+AVP,Wilkes-Barre/Scranton International,2021,157503.0,1,0,ok
+AZO,Kalamazoo/Battle Creek International,2021,79542.0,1,0,ok
+BBG,Branson,2021,10326.0,1,0,ok
+BDL,Bradley International,2021,2273259.0,1,0,ok
+BED,Laurence G Hanscom Field,2021,9572.0,1,0,ok
+BET,Bethel,2021,105877.0,1,0,ok
+BFD,Bradford Regional,2021,3361.0,1,0,ok
+BFF,Western Nebraska Regional/William B Heilig Field,2021,13310.0,1,0,ok
+BFI,Boeing Field/King County International,2021,17774.0,1,0,ok
+BFL,Meadows Field,2021,131327.0,1,0,ok
+BGM,Greater Binghamton/Edwin A Link Field,2021,10347.0,1,0,ok
+BGR,Bangor International,2021,298582.0,1,0,ok
+BHB,Hancock County-Bar Harbor,2021,8874.0,1,0,ok
+BHM,Birmingham-Shuttlesworth International,2021,1081328.0,1,0,ok
+BID,Block Island State,2021,16382.0,1,0,ok
+BIL,Billings Logan International,2021,379300.0,1,0,ok
+BIS,Bismarck Municipal,2021,215056.0,1,0,ok
+BJI,Bemidji Regional,2021,25994.0,1,0,ok
+BKW,Raleigh County Memorial,2021,4863.0,1,0,ok
+BLI,Bellingham International,2021,160160.0,1,0,ok
+BLV,Scott AFB/Midamerica,2021,161562.0,1,0,ok
+BMI,Central IL Regional Airport at Bloomington-Normal,2021,159897.0,1,0,ok
+BNA,Nashville International,2021,7594049.0,1,0,ok
+BOI,Boise Air Terminal/Gowen Field,2021,1809000.0,1,0,ok
+BOS,General Edward Lawrence Logan International,2021,10909817.0,1,0,ok
+BPT,Jack Brooks Regional,2021,21914.0,1,0,ok
+BQK,Brunswick Golden Isles,2021,35856.0,1,0,ok
+BQN,Rafael Hernandez,2021,228524.0,1,0,ok
+BRD,Brainerd Lakes Regional,2021,18790.0,1,0,ok
+BRL,Southeast Iowa Regional,2021,3547.0,1,0,ok
+BRO,Brownsville/South Padre Island International,2021,167957.0,1,0,ok
+BRW,Wiley Post-Will Rogers Memorial,2021,31898.0,1,0,ok
+BTM,Bert Mooney,2021,16707.0,1,0,ok
+BTR,"Baton Rouge Metropolitan, Ryan Field",2021,279159.0,1,0,ok
+BTV,Burlington International,2021,382744.0,1,0,ok
+BUF,Buffalo Niagara International,2021,1427891.0,1,0,ok
+BUR,Bob Hope,2021,1942417.0,1,0,ok
+BVK,Buckland,2021,2625.0,1,0,ok
+BVU,Boulder City Municipal,2021,27984.0,1,0,ok
+BWI,Baltimore/Washington International Thurgood Marshall,2021,9253561.0,1,0,ok
+BZN,Bozeman Yellowstone International,2021,973715.0,1,0,ok
+CAE,Columbia Metropolitan,2021,418391.0,1,0,ok
+CAK,Akron-Canton Regional,2021,204990.0,1,0,ok
+CDB,Cold Bay,2021,3814.0,1,0,ok
+CDC,Cedar City Regional,2021,12807.0,1,0,ok
+CDR,Chadron Municipal,2021,2891.0,1,0,ok
+CDV,Merle K (Mudhole) Smith,2021,15058.0,1,0,ok
+CEC,Jack McNamara Field,2021,7743.0,1,0,ok
+CEZ,Cortez Municipal,2021,6195.0,1,0,ok
+CGI,Cape Girardeau Regional,2021,9244.0,1,0,ok
+CHA,Lovell Field,2021,377726.0,1,0,ok
+CHO,Charlottesville-Albemarle,2021,214395.0,1,0,ok
+CHS,Charleston AFB/International,2021,2015277.0,1,0,ok
+CID,The Eastern Iowa,2021,531295.0,1,0,ok
+CIU,Chippewa County International,2021,17356.0,1,0,ok
+CKB,North Central West Virginia,2021,37165.0,1,0,ok
+CLE,Cleveland-Hopkins International,2021,3552402.0,1,0,ok
+CLL,Easterwood Field,2021,67033.0,1,0,ok
+CLT,Charlotte/Douglas International,2021,20900875.0,1,0,ok
+CMH,Port Columbus International,2021,2825259.0,1,0,ok
+CMI,University of Illinois-Willard,2021,56700.0,1,0,ok
+CMX,Houghton County Memorial,2021,21046.0,1,0,ok
+CNM,Cavern City Air Terminal,2021,4571.0,1,0,ok
+CNY,Canyonlands Field,2021,20093.0,1,0,ok
+COD,Yellowstone Regional,2021,37349.0,1,0,ok
+COS,City of Colorado Springs Municipal,2021,941917.0,1,0,ok
+COU,Columbia Regional,2021,79775.0,1,0,ok
+CPR,Casper/Natrona County International,2021,66629.0,1,0,ok
+CPX,Benjamin Rivera Noriega,2021,27023.0,1,0,ok
+CRP,Corpus Christi International,2021,285195.0,1,0,ok
+CRW,Yeager,2021,149006.0,1,0,ok
+CSG,Columbus,2021,56520.0,1,0,ok
+CVG,Cincinnati/Northern Kentucky International,2021,3050597.0,1,0,ok
+CVN,Clovis Municipal,2021,7575.0,1,0,ok
+CWA,Central Wisconsin,2021,98087.0,1,0,ok
+CXF,Coldfoot,2021,3546.0,1,0,ok
+CYS,Cheyenne Regional/Jerry Olson Field,2021,4408.0,1,0,ok
+DAB,Daytona Beach International,2021,275166.0,1,0,ok
+DAL,Dallas Love Field,2021,6487563.0,1,0,ok
+DAY,James M Cox Dayton International,2021,517621.0,1,0,ok
+DBQ,Dubuque Regional,2021,18867.0,1,0,ok
+DCA,Ronald Reagan Washington National,2021,6731737.0,1,0,ok
+DDC,Dodge City Regional,2021,8246.0,1,0,ok
+DEC,Decatur,2021,9001.0,1,0,ok
+DEN,Denver International,2021,28645527.0,1,0,ok
+DFW,Dallas/Fort Worth International,2021,30005266.0,1,0,ok
+DHN,Dothan Regional,2021,37047.0,1,0,ok
+DIK,Dickinson - Theodore Roosevelt Regional,2021,17506.0,1,0,ok
+DLG,Dillingham,2021,25988.0,1,0,ok
+DLH,Duluth International,2021,108585.0,1,0,ok
+DRO,Durango-La Plata County,2021,200245.0,1,0,ok
+DRT,Del Rio International,2021,19879.0,1,0,ok
+DSM,Des Moines International,2021,1066826.0,1,0,ok
+DTW,Detroit Metropolitan Wayne County,2021,11517696.0,1,0,ok
+DUJ,Dubois Regional,2021,4561.0,1,0,ok
+DUT,Unalaska,2021,19099.0,1,0,ok
+DVL,Devils Lake Regional,2021,6799.0,1,0,ok
+EAR,Kearney Regional,2021,25355.0,1,0,ok
+EAT,Pangborn Memorial,2021,48344.0,1,0,ok
+EAU,Chippewa Valley Regional,2021,19860.0,1,0,ok
+ECP,Northwest Florida Beaches International,2021,794846.0,1,0,ok
+EGE,Eagle County Regional,2021,201752.0,1,0,ok
+EKO,Elko Regional,2021,15641.0,1,0,ok
+ELD,South Arkansas Regional at Goodwin Field,2021,3078.0,1,0,ok
+ELM,Elmira/Corning Regional,2021,76947.0,1,0,ok
+ELP,El Paso International,2021,1438321.0,1,0,ok
+ENA,Kenai Municipal,2021,68044.0,1,0,ok
+ENM,Emmonak,2021,5995.0,1,0,ok
+ERI,Erie International/Tom Ridge Field,2021,69170.0,1,0,ok
+ESC,Delta County,2021,14780.0,1,0,ok
+EUG,Mahlon Sweet Field,2021,566111.0,1,0,ok
+EVV,Evansville Regional,2021,164807.0,1,0,ok
+EWB,New Bedford Regional,2021,3353.0,1,0,ok
+EWN,Coastal Carolina Regional,2021,76228.0,1,0,ok
+EWR,Newark Liberty International,2021,14514049.0,1,0,ok
+EYW,Key West International,2021,741130.0,1,0,ok
+FAI,Fairbanks International,2021,450694.0,1,0,ok
+FAR,Hector International,2021,408477.0,1,0,ok
+FAT,Fresno Yosemite International,2021,960594.0,1,0,ok
+FAY,Fayetteville Regional/Grannis Field,2021,188451.0,1,0,ok
+FHR,Friday Harbor,2021,14054.0,1,0,ok
+FLG,Flagstaff Pulliam,2021,115596.0,1,0,ok
+FLL,Fort Lauderdale/Hollywood International,2021,13598994.0,1,0,ok
+FLO,Florence Regional,2021,23028.0,1,0,ok
+FNL,Fort Collins-Loveland Municipal,2021,5248.0,1,0,ok
+FNT,Bishop International,2021,241651.0,1,0,ok
+FOD,Fort Dodge Regional,2021,7199.0,1,0,ok
+FSD,Joe Foss Field,2021,501423.0,1,0,ok
+FSM,Fort Smith Regional,2021,45369.0,1,0,ok
+FWA,Fort Wayne International,2021,335804.0,1,0,ok
+FXE,Fort Lauderdale Exec,2021,8897.0,1,0,ok
+FYU,Fort Yukon,2021,4163.0,1,0,ok
+GAL,Edward G Pitka Sr,2021,7978.0,1,0,ok
+GCC,Gillette-Campbell County,2021,23873.0,1,0,ok
+GCK,Garden City Regional,2021,28525.0,1,0,ok
+GEG,Spokane International,2021,1586110.0,1,0,ok
+GFK,Grand Forks International,2021,69800.0,1,0,ok
+GGG,East Texas Regional,2021,23942.0,1,0,ok
+GGW,Wokal Field/Glasgow-Valley County,2021,3388.0,1,0,ok
+GJT,Grand Junction Regional,2021,252290.0,1,0,ok
+GLH,Mid Delta Regional,2021,5608.0,1,0,ok
+GNV,Gainesville Regional,2021,200444.0,1,0,ok
+GPI,Glacier Park International,2021,418094.0,1,0,ok
+GPT,Gulfport-Biloxi International,2021,317112.0,1,0,ok
+GRB,Austin Straubel International,2021,264755.0,1,0,ok
+GRI,Central Nebraska Regional,2021,55904.0,1,0,ok
+GRK,Robert Gray AAF,2021,142253.0,1,0,ok
+GRO,Benjamin Taisacan Manglona International,2021,9094.0,1,0,ok
+GRR,Gerald R Ford International,2021,1450377.0,1,0,ok
+GSN,Francisco C Ada/Saipan International,2021,58382.0,1,0,ok
+GSO,Piedmont Triad International,2021,627000.0,1,0,ok
+GSP,Greenville Spartanburg International,2021,878450.0,1,0,ok
+GST,Gustavus,2021,10305.0,1,0,ok
+GTF,Great Falls International,2021,132267.0,1,0,ok
+GTR,Golden Triangle Regional,2021,36235.0,1,0,ok
+GUC,Gunnison-Crested Butte Regional,2021,38783.0,1,0,ok
+GUM,Guam International,2021,150718.0,1,0,ok
+GYY,Gary/Chicago International,2021,3373.0,1,0,ok
+HDN,Yampa Valley,2021,150142.0,1,0,ok
+HGR,Hagerstown Regional-Richard A Henson Field,2021,23227.0,1,0,ok
+HHR,Jack Northrop Field/Hawthorne Municipal,2021,3483.0,1,0,ok
+HIB,Range Regional,2021,12672.0,1,0,ok
+HLN,Helena Regional,2021,71305.0,1,0,ok
+HNH,Hoonah,2021,5575.0,1,0,ok
+HNL,Honolulu International,2021,5830928.0,1,0,ok
+HNS,Haines,2021,7206.0,1,0,ok
+HOB,Lea County Regional,2021,11993.0,1,0,ok
+HOM,Homer,2021,30972.0,1,0,ok
+HOT,Memorial Field,2021,4388.0,1,0,ok
+HOU,William P Hobby,2021,5560780.0,1,0,ok
+HPB,Hooper Bay,2021,2903.0,1,0,ok
+HPN,Westchester County,2021,547011.0,1,0,ok
+HRL,Valley International,2021,355190.0,1,0,ok
+HRO,Boone County,2021,4761.0,1,0,ok
+HSV,Huntsville International-Carl T Jones Field,2021,459759.0,1,0,ok
+HTS,Tri-State/Milton J Ferguson Field,2021,94973.0,1,0,ok
+HVN,Tweed-New Haven,2021,29732.0,1,0,ok
+HVR,Havre City-County,2021,3395.0,1,0,ok
+HXD,Hilton Head,2021,176371.0,1,0,ok
+HYA,Barnstable Municipal-Boardman/Polando Field,2021,19520.0,1,0,ok
+HYS,Hays Regional,2021,11081.0,1,0,ok
+IAD,Washington Dulles International,2021,7227875.0,1,0,ok
+IAG,Niagara Falls International,2021,42471.0,1,0,ok
+IAH,George Bush Intercontinental/Houston,2021,16242821.0,1,0,ok
+ICT,Wichita Mid-Continent,2021,633562.0,1,0,ok
+IDA,Idaho Falls Regional,2021,217863.0,1,0,ok
+IIK,Kipnuk,2021,2600.0,1,0,ok
+ILG,New Castle,2021,12476.0,1,0,ok
+ILI,Iliamna,2021,3933.0,1,0,ok
+ILM,Wilmington International,2021,462572.0,1,0,ok
+IMT,Ford,2021,14863.0,1,0,ok
+IND,Indianapolis International,2021,3487100.0,1,0,ok
+INL,Falls International,2021,8277.0,1,0,ok
+IPL,Imperial County,2021,5181.0,1,0,ok
+IPT,Williamsport Regional,2021,4212.0,1,0,ok
+IRK,Kirksville Regional,2021,4099.0,1,0,ok
+ISP,Long Island MacArthur,2021,553430.0,1,0,ok
+ITH,Ithaca Tompkins Regional,2021,57750.0,1,0,ok
+ITO,Hilo International,2021,358471.0,1,0,ok
+IWA,Phoenix-Mesa Gateway,2021,795407.0,1,0,ok
+IWD,Gogebic-Iron County,2021,4763.0,1,0,ok
+JAC,Jackson Hole,2021,497548.0,1,0,ok
+JAN,Jackson-Medgar Wiley Evers International,2021,466067.0,1,0,ok
+JAX,Jacksonville International,2021,2425685.0,1,0,ok
+JBR,Jonesboro Municipal,2021,4041.0,1,0,ok
+JFK,John F Kennedy International,2021,15273342.0,1,0,ok
+JLN,Joplin Regional,2021,26698.0,1,0,ok
+JMS,Jamestown Regional,2021,12804.0,1,0,ok
+JNU,Juneau International,2021,306512.0,1,0,ok
+JQF,Concord-Padgett Regional,2021,139173.0,1,0,ok
+JST,John Murtha Johnstown-Cambria County,2021,8519.0,1,0,ok
+KOA,Kona International at Keahole,2021,1404584.0,1,0,ok
+KSM,St Mary's,2021,2982.0,1,0,ok
+KTN,Ketchikan International,2021,117728.0,1,0,ok
+LAN,Capital Region International,2021,94151.0,1,0,ok
+LAR,Laramie Regional,2021,16728.0,1,0,ok
+LAS,McCarran International,2021,19160342.0,1,0,ok
+LAW,Lawton-Fort Sill Regional,2021,39336.0,1,0,ok
+LAX,Los Angeles International,2021,23663410.0,1,0,ok
+LBB,Lubbock Preston Smith International,2021,405157.0,1,0,ok
+LBE,Arnold Palmer Regional,2021,124514.0,1,0,ok
+LBF,North Platte Regional Airport Lee Bird Field,2021,13679.0,1,0,ok
+LBL,Liberal Mid-America Regional,2021,6653.0,1,0,ok
+LCH,Lake Charles Regional,2021,52726.0,1,0,ok
+LCK,Rickenbacker International,2021,148397.0,1,0,ok
+LEB,Lebanon Municipal,2021,7597.0,1,0,ok
+LEX,Blue Grass,2021,464313.0,1,0,ok
+LFT,Lafayette Regional,2021,208047.0,1,0,ok
+LGA,La Guardia,2021,7827307.0,1,0,ok
+LGB,Long Beach /Daugherty Field/,2021,1039432.0,1,0,ok
+LIH,Lihue,2021,1039607.0,1,0,ok
+LIT,Adams Field,2021,827922.0,1,0,ok
+LNK,Lincoln,2021,93740.0,1,0,ok
+LNS,Lancaster,2021,4072.0,1,0,ok
+LNY,Lanai,2021,24226.0,1,0,ok
+LRD,Laredo International,2021,108992.0,1,0,ok
+LSE,La Crosse Regional,2021,82683.0,1,0,ok
+LWB,Greenbrier Valley,2021,10902.0,1,0,ok
+LWS,Lewiston-Nez Perce County,2021,30892.0,1,0,ok
+LYH,Lynchburg Regional/Preston Glenn Field,2021,70458.0,1,0,ok
+MAF,Midland International,2021,504264.0,1,0,ok
+MAZ,Eugenio Maria De Hostos,2021,6294.0,1,0,ok
+MBL,Manistee County-Blacker,2021,5108.0,1,0,ok
+MBS,MBS International,2021,68806.0,1,0,ok
+MCE,Merced Regional/Macready Field,2021,5301.0,1,0,ok
+MCI,Kansas City International,2021,3795290.0,1,0,ok
+MCN,Middle Georgia Regional,2021,14176.0,1,0,ok
+MCO,Orlando International,2021,19618838.0,1,0,ok
+MCW,Mason City Municipal,2021,7741.0,1,0,ok
+MDT,Harrisburg International,2021,512251.0,1,0,ok
+MDW,Chicago Midway International,2021,7680617.0,1,0,ok
+MEI,Key Field,2021,12050.0,1,0,ok
+MEM,Memphis International,2021,1793073.0,1,0,ok
+MFE,McAllen Miller International,2021,477636.0,1,0,ok
+MFR,Rogue Valley International - Medford,2021,437079.0,1,0,ok
+MGM,Montgomery Regional (Dannelly Field),2021,129033.0,1,0,ok
+MGW,Morgantown Municipal-Walter L. Bill Hart Field,2021,6450.0,1,0,ok
+MHK,Manhattan Regional,2021,60030.0,1,0,ok
+MHT,Manchester,2021,478143.0,1,0,ok
+MIA,Miami International,2021,17500096.0,1,0,ok
+MKE,General Mitchell International,2021,2231010.0,1,0,ok
+MKG,Muskegon County,2021,12741.0,1,0,ok
+MKK,Molokai,2021,68251.0,1,0,ok
+MKL,McKellar-Sipes Regional,2021,2739.0,1,0,ok
+MLB,Melbourne International,2021,176820.0,1,0,ok
+MLI,Quad City International,2021,246248.0,1,0,ok
+MLU,Monroe Regional,2021,84693.0,1,0,ok
+MOB,Mobile Regional,2021,236007.0,1,0,ok
+MOT,Minot International,2021,126575.0,1,0,ok
+MRI,Merrill Field,2021,22907.0,1,0,ok
+MRY,Monterey Regional,2021,188658.0,1,0,ok
+MSL,Northwest Alabama Regional,2021,6614.0,1,0,ok
+MSN,Dane County Regional-Truax Field,2021,699167.0,1,0,ok
+MSO,Missoula International,2021,384925.0,1,0,ok
+MSP,Minneapolis-St Paul International/Wold-Chamberlain,2021,12211409.0,1,0,ok
+MSS,Massena International-Richards Field,2021,3662.0,1,0,ok
+MSY,Louis Armstrong New Orleans International,2021,4017147.0,1,0,ok
+MTJ,Montrose Regional,2021,188355.0,1,0,ok
+MUE,Waimea-Kohala,2021,3298.0,1,0,ok
+MVY,Martha's Vineyard,2021,67789.0,1,0,ok
+MWA,Williamson County Regional,2021,10522.0,1,0,ok
+MYR,Myrtle Beach International,2021,1579987.0,1,0,ok
+NYL,Yuma MCAS/Yuma International,2021,110182.0,1,0,ok
+OAJ,Albert J Ellis,2021,162567.0,1,0,ok
+OAK,Metropolitan Oakland International,2021,4011953.0,1,0,ok
+OGD,Ogden-Hinckley,2021,29857.0,1,0,ok
+OGG,Kahului,2021,2933315.0,1,0,ok
+OGS,Ogdensburg International,2021,10309.0,1,0,ok
+OKC,Will Rogers World,2021,1632197.0,1,0,ok
+OLF,L M Clayton,2021,3601.0,1,0,ok
+OMA,Eppley Airfield,2021,1829912.0,1,0,ok
+OME,Nome,2021,46645.0,1,0,ok
+ONT,Ontario International,2021,2201528.0,1,0,ok
+ORD,Chicago O'Hare International,2021,26350976.0,1,0,ok
+ORF,Norfolk International,2021,1658024.0,1,0,ok
+ORH,Worcester Regional,2021,14301.0,1,0,ok
+ORS,Orcas Island,2021,10138.0,1,0,ok
+OTH,Southwest Oregon Regional,2021,13552.0,1,0,ok
+OTZ,Ralph Wien Memorial,2021,46305.0,1,0,ok
+OWB,Owensboro-Daviess County,2021,13396.0,1,0,ok
+PAE,Snohomish County (Paine Field),2021,114988.0,1,0,ok
+PAH,Barkley Regional,2021,13643.0,1,0,ok
+PBG,Plattsburgh International,2021,40751.0,1,0,ok
+PBI,Palm Beach International,2021,2567897.0,1,0,ok
+PDT,Eastern Oregon Regional at Pendleton,2021,4258.0,1,0,ok
+PDX,Portland International,2021,5759879.0,1,0,ok
+PGA,Page Municipal,2021,14340.0,1,0,ok
+PGD,Punta Gorda,2021,783397.0,1,0,ok
+PGV,Pitt-Greenville,2021,34778.0,1,0,ok
+PHF,Newport News/Williamsburg International,2021,83943.0,1,0,ok
+PHL,Philadelphia International,2021,9820222.0,1,0,ok
+PHO,Point Hope,2021,2844.0,1,0,ok
+PHX,Phoenix Sky Harbor International,2021,18940287.0,1,0,ok
+PIA,General Downing - Peoria International,2021,237442.0,1,0,ok
+PIB,Hattiesburg-Laurel Regional,2021,13853.0,1,0,ok
+PIE,St Pete-Clearwater International,2021,1021007.0,1,0,ok
+PIH,Pocatello Regional,2021,23818.0,1,0,ok
+PIR,Pierre Regional,2021,17510.0,1,0,ok
+PIT,Pittsburgh International,2021,3069259.0,1,0,ok
+PKB,Mid-Ohio Valley Regional,2021,5887.0,1,0,ok
+PLN,Pellston Regional Airport of Emmet County,2021,29241.0,1,0,ok
+PNS,Pensacola International,2021,1168575.0,1,0,ok
+PPG,Pago Pago International,2021,8000.0,1,0,ok
+PQI,Northern Maine Regional Airport at Presque Isle,2021,11137.0,1,0,ok
+PRC,Ernest A. Love Field,2021,23598.0,1,0,ok
+PSC,Tri-Cities,2021,347438.0,1,0,ok
+PSE,Mercedita,2021,32584.0,1,0,ok
+PSG,Petersburg James A Johnson,2021,20690.0,1,0,ok
+PSM,Portsmouth International at Pease,2021,66972.0,1,0,ok
+PSP,Palm Springs International,2021,1044045.0,1,0,ok
+PUB,Pueblo Memorial,2021,9624.0,1,0,ok
+PUW,Pullman/Moscow Regional,2021,54473.0,1,0,ok
+PVC,Provincetown Municipal,2021,7707.0,1,0,ok
+PVD,Theodore Francis Green State,2021,1159679.0,1,0,ok
+PVU,Provo Municipal,2021,118740.0,1,0,ok
+PWM,Portland International Jetport,2021,854142.0,1,0,ok
+RAP,Rapid City Regional,2021,337788.0,1,0,ok
+RDD,Redding Municipal,2021,58295.0,1,0,ok
+RDM,Roberts Field,2021,422214.0,1,0,ok
+RDU,Raleigh-Durham International,2021,4311049.0,1,0,ok
+RFD,Chicago/Rockford International,2021,102779.0,1,0,ok
+RHI,Rhinelander-Oneida County,2021,26252.0,1,0,ok
+RIC,Richmond International,2021,1603149.0,1,0,ok
+RIW,Riverton Regional,2021,15420.0,1,0,ok
+RKD,Knox County Regional,2021,12149.0,1,0,ok
+RKS,Rock Springs-Sweetwater County,2021,16679.0,1,0,ok
+RNO,Reno/Tahoe International,2021,1781785.0,1,0,ok
+RNT,Renton Municipal,2021,2734.0,1,0,ok
+ROA,Roanoke Regional/Woodrum Field,2021,242814.0,1,0,ok
+ROC,Greater Rochester International,2021,769560.0,1,0,ok
+ROW,Roswell International Air Center,2021,44879.0,1,0,ok
+RST,Rochester International,2021,98975.0,1,0,ok
+RSW,Southwest Florida International,2021,5080805.0,1,0,ok
+RUT,Rutland - Southern Vermont Regional,2021,4531.0,1,0,ok
+RVR,Jose Aponte De La Torre,2021,30457.0,1,0,ok
+SAF,Santa Fe Municipal,2021,94906.0,1,0,ok
+SAN,San Diego International,2021,7836360.0,1,0,ok
+SAT,San Antonio International,2021,3677643.0,1,0,ok
+SAV,Savannah/Hilton Head International,2021,1360214.0,1,0,ok
+SAW,Sawyer International,2021,51846.0,1,0,ok
+SBA,Santa Barbara Municipal,2021,440229.0,1,0,ok
+SBN,South Bend International,2021,341343.0,1,0,ok
+SBP,San Luis County Regional,2021,200634.0,1,0,ok
+SBY,Salisbury-Ocean City Wicomico Regional,2021,58574.0,1,0,ok
+SCC,Deadhorse,2021,64245.0,1,0,ok
+SCK,Stockton Metropolitan,2021,69235.0,1,0,ok
+SDF,Louisville International-Standiford Field,2021,1529472.0,1,0,ok
+SDY,Sidney-Richland Municipal,2021,8356.0,1,0,ok
+SEA,Seattle-Tacoma International,2021,17430195.0,1,0,ok
+SFB,Orlando Sanford International,2021,1174471.0,1,0,ok
+SFO,San Francisco International,2021,11725347.0,1,0,ok
+SGF,Springfield-Branson National,2021,480975.0,1,0,ok
+SGU,St George Municipal,2021,153200.0,1,0,ok
+SGY,Skagway,2021,3082.0,1,0,ok
+SHD,Shenandoah Valley Regional,2021,14320.0,1,0,ok
+SHH,Shishmaref,2021,2822.0,1,0,ok
+SHR,Sheridan County,2021,23920.0,1,0,ok
+SHV,Shreveport Regional,2021,246772.0,1,0,ok
+SIG,Fernando Luis Ribas Dominicci,2021,16569.0,1,0,ok
+SIT,Sitka Rocky Gutierrez,2021,80366.0,1,0,ok
+SJC,Norman Y Mineta San Jose International,2021,3619690.0,1,0,ok
+SJT,San Angelo Regional/Mathis Field,2021,60115.0,1,0,ok
+SJU,Luis Munoz Marin International,2021,4738725.0,1,0,ok
+SLC,Salt Lake City International,2021,10795906.0,1,0,ok
+SLK,Adirondack Regional,2021,3956.0,1,0,ok
+SLN,Salina Regional,2021,19407.0,1,0,ok
+SMF,Sacramento International,2021,4760275.0,1,0,ok
+SMX,Santa Maria Public/Capt G Allan Hancock Field,2021,27916.0,1,0,ok
+SNA,John Wayne Airport-Orange County,2021,3807205.0,1,0,ok
+SOV,Seldovia,2021,3469.0,1,0,ok
+SOW,Show Low Regional,2021,4570.0,1,0,ok
+SPI,Abraham Lincoln Capital,2021,60949.0,1,0,ok
+SPS,Sheppard AFB/Wichita Falls Municipal,2021,32038.0,1,0,ok
+SQL,San Carlos,2021,4257.0,1,0,ok
+SRQ,Sarasota/Bradenton International,2021,1574063.0,1,0,ok
+STC,St. Cloud Regional,2021,16632.0,1,0,ok
+STL,Lambert-St Louis International,2021,5070471.0,1,0,ok
+STS,Charles M Schulz - Sonoma County,2021,216059.0,1,0,ok
+STT,Cyril E King,2021,731693.0,1,0,ok
+STX,Henry E Rohlsen,2021,218795.0,1,0,ok
+SUN,Friedman Memorial,2021,94166.0,1,0,ok
+SUX,Sioux Gateway/Col. Bud Day Field,2021,31101.0,1,0,ok
+SVC,Grant County,2021,4921.0,1,0,ok
+SWF,Stewart International,2021,69649.0,1,0,ok
+SWO,Stillwater Regional,2021,20328.0,1,0,ok
+SYR,Syracuse Hancock International,2021,840994.0,1,0,ok
+TBN,Waynesville-St Robert Regional Forney Field,2021,11340.0,1,0,ok
+TEX,Telluride Regional,2021,6691.0,1,0,ok
+TLH,Tallahassee Regional,2021,319886.0,1,0,ok
+TNI,Tinian International,2021,24169.0,1,0,ok
+TOL,Toledo Express,2021,85599.0,1,0,ok
+TPA,Tampa International,2021,8847197.0,1,0,ok
+TRI,Tri-Cities Regional TN/VA,2021,157214.0,1,0,ok
+TTN,Trenton Mercer,2021,243529.0,1,0,ok
+TUL,Tulsa International,2021,1154527.0,1,0,ok
+TUP,Tupelo Regional,2021,15748.0,1,0,ok
+TUS,Tucson International,2021,1323536.0,1,0,ok
+TVC,Cherry Capital,2021,299027.0,1,0,ok
+TVF,Thief River Falls Regional,2021,7423.0,1,0,ok
+TWF,Joslin Field - Magic Valley Regional,2021,34959.0,1,0,ok
+TXK,Texarkana Regional-Webb Field,2021,26888.0,1,0,ok
+TYR,Tyler Pounds Regional,2021,39943.0,1,0,ok
+TYS,McGhee Tyson,2021,976601.0,1,0,ok
+UIN,Quincy Regional-Baldwin Field,2021,7418.0,1,0,ok
+UNK,Unalakleet,2021,6594.0,1,0,ok
+UNV,University Park,2021,122404.0,1,0,ok
+VAK,Chevak,2021,3489.0,1,0,ok
+VCT,Victoria Regional,2021,6610.0,1,0,ok
+VDZ,Valdez Pioneer Field,2021,5195.0,1,0,ok
+VEL,Vernal Regional,2021,9168.0,1,0,ok
+VLD,Valdosta Regional,2021,38736.0,1,0,ok
+VPS,Eglin AFB,2021,973477.0,1,0,ok
+VQS,Antonio Rivera Rodriguez,2021,36748.0,1,0,ok
+VRB,Vero Beach Regional,2021,4156.0,1,0,ok
+W33,Friday Harbor,2021,8504.0,1,0,ok
+WLK,Selawik,2021,2806.0,1,0,ok
+WRG,Wrangell,2021,12100.0,1,0,ok
+WST,Westerly State,2021,16925.0,1,0,ok
+WTK,Noatak,2021,2506.0,1,0,ok
+WYS,Yellowstone,2021,13149.0,1,0,ok
+XNA,Northwest Arkansas Regional,2021,598787.0,1,0,ok
+XWA,Williston Basin International,2021,46577.0,1,0,ok
+YAK,Yakutat,2021,10899.0,1,0,ok
+YKM,Yakima Air Terminal/McAllister Field,2021,46658.0,1,0,ok
+0AK,Pilot Station,2022,2724.0,1,0,ok
+1G4,Grand Canyon West,2022,32726.0,1,0,ok
+2A3,Larsen Bay,2022,2895.0,1,0,ok
+A61,Tuntutuliak,2022,2788.0,1,0,ok
+ABE,Lehigh Valley International,2022,419772.0,1,0,ok
+ABI,Abilene Regional,2022,70419.0,1,0,ok
+ABQ,Albuquerque International Sunport,2022,2317836.0,1,0,ok
+ABR,Aberdeen Regional,2022,21776.0,1,0,ok
+ABY,Southwest Georgia Regional,2022,35023.0,1,0,ok
+ACK,Nantucket Memorial,2022,140621.0,1,0,ok
+ACT,Waco Regional,2022,54899.0,1,0,ok
+ACV,Arcata,2022,118924.0,1,0,ok
+ACY,Atlantic City International,2022,459272.0,1,0,ok
+ADK,Adak,2022,2616.0,1,0,ok
+ADQ,Kodiak,2022,82913.0,1,0,ok
+AEX,Alexandria International,2022,147059.0,1,0,ok
+AGS,Augusta Regional at Bush Field,2022,269937.0,1,0,ok
+AIA,Alliance Municipal,2022,4156.0,1,0,ok
+AKN,King Salmon,2022,37874.0,1,0,ok
+AKP,Anaktuvuk Pass,2022,2597.0,1,0,ok
+AKW,Klawock,2022,16167.0,1,0,ok
+ALB,Albany International,2022,1277329.0,1,0,ok
+ALO,Waterloo Regional,2022,16328.0,1,0,ok
+ALS,San Luis Valley Regional/Bergman Field,2022,10044.0,1,0,ok
+ALW,Walla Walla Regional,2022,33821.0,1,0,ok
+AMA,Rick Husband Amarillo International,2022,358360.0,1,0,ok
+ANC,Ted Stevens Anchorage International,2022,2604308.0,1,0,ok
+ANI,Aniak,2022,4971.0,1,0,ok
+AOO,Altoona-Blair County,2022,4442.0,1,0,ok
+APN,Alpena County Regional,2022,13046.0,1,0,ok
+AQH,Quinhagak,2022,4996.0,1,0,ok
+ART,Watertown International,2022,20379.0,1,0,ok
+ASE,Aspen-Pitkin County/Sardy Field,2022,299840.0,1,0,ok
+ATL,Hartsfield - Jackson Atlanta International,2022,45396001.0,1,0,ok
+ATW,Outagamie County Regional,2022,416390.0,1,0,ok
+ATY,Watertown Regional,2022,15042.0,1,0,ok
+AUG,Augusta State,2022,5804.0,1,0,ok
+AUS,Austin-Bergstrom International,2022,10382573.0,1,0,ok
+AVL,Asheville Regional,2022,919929.0,1,0,ok
+AVP,Wilkes-Barre/Scranton International,2022,190406.0,1,0,ok
+AWI,Wainwright,2022,2860.0,1,0,ok
+AZO,Kalamazoo/Battle Creek International,2022,72551.0,1,0,ok
+BBG,Branson,2022,6204.0,1,0,ok
+BDL,Bradley International,2022,2844713.0,1,0,ok
+BED,Laurence G Hanscom Field,2022,12502.0,1,0,ok
+BET,Bethel,2022,142256.0,1,0,ok
+BFD,Bradford Regional,2022,4509.0,1,0,ok
+BFF,Western Nebraska Regional/William B Heilig Field,2022,12548.0,1,0,ok
+BFI,Boeing Field/King County International,2022,21717.0,1,0,ok
+BFL,Meadows Field,2022,141352.0,1,0,ok
+BGM,Greater Binghamton/Edwin A Link Field,2022,13328.0,1,0,ok
+BGR,Bangor International,2022,343528.0,1,0,ok
+BHB,Hancock County-Bar Harbor,2022,8396.0,1,0,ok
+BHM,Birmingham-Shuttlesworth International,2022,1331035.0,1,0,ok
+BID,Block Island State,2022,14366.0,1,0,ok
+BIH,Bishop,2022,10754.0,1,0,ok
+BIL,Billings Logan International,2022,386948.0,1,0,ok
+BIS,Bismarck Municipal,2022,242918.0,1,0,ok
+BJI,Bemidji Regional,2022,26478.0,1,0,ok
+BKW,Raleigh County Memorial,2022,5004.0,1,0,ok
+BLI,Bellingham International,2022,321487.0,1,0,ok
+BLV,Scott AFB/Midamerica,2022,162819.0,1,0,ok
+BMI,Central IL Regional Airport at Bloomington-Normal,2022,175665.0,1,0,ok
+BNA,Nashville International,2022,9829062.0,1,0,ok
+BOI,Boise Air Terminal/Gowen Field,2022,2230467.0,1,0,ok
+BOS,General Edward Lawrence Logan International,2022,17443775.0,1,0,ok
+BPT,Jack Brooks Regional,2022,24882.0,1,0,ok
+BQK,Brunswick Golden Isles,2022,34373.0,1,0,ok
+BQN,Rafael Hernandez,2022,346166.0,1,0,ok
+BRD,Brainerd Lakes Regional,2022,20311.0,1,0,ok
+BRL,Southeast Iowa Regional,2022,3605.0,1,0,ok
+BRO,Brownsville/South Padre Island International,2022,127239.0,1,0,ok
+BRW,Wiley Post-Will Rogers Memorial,2022,37530.0,1,0,ok
+BTM,Bert Mooney,2022,18194.0,1,0,ok
+BTR,"Baton Rouge Metropolitan, Ryan Field",2022,332335.0,1,0,ok
+BTV,Burlington International,2022,601441.0,1,0,ok
+BUF,Buffalo Niagara International,2022,2007508.0,1,0,ok
+BUR,Bob Hope,2022,3054729.0,1,0,ok
+BVK,Buckland,2022,3362.0,1,0,ok
+BVU,Boulder City Municipal,2022,63243.0,1,0,ok
+BWI,Baltimore/Washington International Thurgood Marshall,2022,11151169.0,1,0,ok
+BZN,Bozeman Yellowstone International,2022,1136170.0,1,0,ok
+CAE,Columbia Metropolitan,2022,504625.0,1,0,ok
+CAK,Akron-Canton Regional,2022,265889.0,1,0,ok
+CDB,Cold Bay,2022,3240.0,1,0,ok
+CDC,Cedar City Regional,2022,12245.0,1,0,ok
+CDR,Chadron Municipal,2022,3641.0,1,0,ok
+CDV,Merle K (Mudhole) Smith,2022,16844.0,1,0,ok
+CEC,Jack McNamara Field,2022,8218.0,1,0,ok
+CEZ,Cortez Municipal,2022,6998.0,1,0,ok
+CFK,Chefornak,2022,2893.0,1,0,ok
+CGI,Cape Girardeau Regional,2022,8713.0,1,0,ok
+CHA,Lovell Field,2022,431984.0,1,0,ok
+CHO,Charlottesville-Albemarle,2022,262725.0,1,0,ok
+CHS,Charleston AFB/International,2022,2608497.0,1,0,ok
+CID,The Eastern Iowa,2022,611010.0,1,0,ok
+CIU,Chippewa County International,2022,22147.0,1,0,ok
+CKB,North Central West Virginia,2022,46508.0,1,0,ok
+CLE,Cleveland-Hopkins International,2022,4237795.0,1,0,ok
+CLL,Easterwood Field,2022,54542.0,1,0,ok
+CLT,Charlotte/Douglas International,2022,23100300.0,1,0,ok
+CMH,Port Columbus International,2022,3618555.0,1,0,ok
+CMI,University of Illinois-Willard,2022,64715.0,1,0,ok
+CMX,Houghton County Memorial,2022,22672.0,1,0,ok
+CNM,Cavern City Air Terminal,2022,5311.0,1,0,ok
+CNY,Canyonlands Field,2022,18841.0,1,0,ok
+COD,Yellowstone Regional,2022,37729.0,1,0,ok
+COS,City of Colorado Springs Municipal,2022,1080060.0,1,0,ok
+COU,Columbia Regional,2022,81643.0,1,0,ok
+CPR,Casper/Natrona County International,2022,72645.0,1,0,ok
+CPX,Benjamin Rivera Noriega,2022,21788.0,1,0,ok
+CRP,Corpus Christi International,2022,319687.0,1,0,ok
+CRQ,McClellan-Palomar,2022,3715.0,1,0,ok
+CRW,Yeager,2022,164240.0,1,0,ok
+CSG,Columbus,2022,84387.0,1,0,ok
+CVG,Cincinnati/Northern Kentucky International,2022,3702997.0,1,0,ok
+CVN,Clovis Municipal,2022,13028.0,1,0,ok
+CWA,Central Wisconsin,2022,78189.0,1,0,ok
+CXF,Coldfoot,2022,5212.0,1,0,ok
+CYS,Cheyenne Regional/Jerry Olson Field,2022,19764.0,1,0,ok
+D76,Robert /Bob/ Curtis Memorial,2022,3096.0,1,0,ok
+DAB,Daytona Beach International,2022,280536.0,1,0,ok
+DAL,Dallas Love Field,2022,7819129.0,1,0,ok
+DAY,James M Cox Dayton International,2022,559347.0,1,0,ok
+DBQ,Dubuque Regional,2022,15673.0,1,0,ok
+DCA,Ronald Reagan Washington National,2022,11553850.0,1,0,ok
+DDC,Dodge City Regional,2022,6464.0,1,0,ok
+DEC,Decatur,2022,9871.0,1,0,ok
+DEN,Denver International,2022,33773832.0,1,0,ok
+DFW,Dallas/Fort Worth International,2022,35345138.0,1,0,ok
+DHN,Dothan Regional,2022,38517.0,1,0,ok
+DIK,Dickinson - Theodore Roosevelt Regional,2022,21606.0,1,0,ok
+DLG,Dillingham,2022,33151.0,1,0,ok
+DLH,Duluth International,2022,118242.0,1,0,ok
+DRO,Durango-La Plata County,2022,183273.0,1,0,ok
+DRT,Del Rio International,2022,26641.0,1,0,ok
+DSM,Des Moines International,2022,1368130.0,1,0,ok
+DTS,Destin Exec,2022,4801.0,1,0,ok
+DTW,Detroit Metropolitan Wayne County,2022,13751197.0,1,0,ok
+DUJ,Dubois Regional,2022,6200.0,1,0,ok
+DUT,Unalaska,2022,21034.0,1,0,ok
+DUY,Kongiganak,2022,2680.0,1,0,ok
+DVL,Devils Lake Regional,2022,7349.0,1,0,ok
+EAR,Kearney Regional,2022,22283.0,1,0,ok
+EAT,Pangborn Memorial,2022,34721.0,1,0,ok
+EAU,Chippewa Valley Regional,2022,17346.0,1,0,ok
+ECP,Northwest Florida Beaches International,2022,746521.0,1,0,ok
+EEK,Eek,2022,2616.0,1,0,ok
+EGE,Eagle County Regional,2022,214998.0,1,0,ok
+EKO,Elko Regional,2022,8459.0,1,0,ok
+ELD,South Arkansas Regional at Goodwin Field,2022,3923.0,1,0,ok
+ELM,Elmira/Corning Regional,2022,81796.0,1,0,ok
+ELP,El Paso International,2022,1931067.0,1,0,ok
+ENA,Kenai Municipal,2022,75180.0,1,0,ok
+ENM,Emmonak,2022,8971.0,1,0,ok
+ERI,Erie International/Tom Ridge Field,2022,61860.0,1,0,ok
+ESC,Delta County,2022,20339.0,1,0,ok
+EUG,Mahlon Sweet Field,2022,781745.0,1,0,ok
+EVV,Evansville Regional,2022,153652.0,1,0,ok
+EWN,Coastal Carolina Regional,2022,64011.0,1,0,ok
+EWR,Newark Liberty International,2022,21774690.0,1,0,ok
+EYW,Key West International,2022,708807.0,1,0,ok
+FAI,Fairbanks International,2022,513160.0,1,0,ok
+FAR,Hector International,2022,463181.0,1,0,ok
+FAT,Fresno Yosemite International,2022,1077710.0,1,0,ok
+FAY,Fayetteville Regional/Grannis Field,2022,165721.0,1,0,ok
+FHR,Friday Harbor,2022,10883.0,1,0,ok
+FLG,Flagstaff Pulliam,2022,92535.0,1,0,ok
+FLL,Fort Lauderdale/Hollywood International,2022,15370165.0,1,0,ok
+FLO,Florence Regional,2022,29064.0,1,0,ok
+FNL,Fort Collins-Loveland Municipal,2022,13058.0,1,0,ok
+FNT,Bishop International,2022,299782.0,1,0,ok
+FOD,Fort Dodge Regional,2022,5531.0,1,0,ok
+FSD,Joe Foss Field,2022,606055.0,1,0,ok
+FSM,Fort Smith Regional,2022,59688.0,1,0,ok
+FWA,Fort Wayne International,2022,359800.0,1,0,ok
+FXE,Fort Lauderdale Exec,2022,9902.0,1,0,ok
+FYU,Fort Yukon,2022,4728.0,1,0,ok
+GAL,Edward G Pitka Sr,2022,10381.0,1,0,ok
+GAM,Gambell,2022,2842.0,1,0,ok
+GCC,Gillette-Campbell County,2022,24144.0,1,0,ok
+GCK,Garden City Regional,2022,29628.0,1,0,ok
+GDV,Dawson Community,2022,4313.0,1,0,ok
+GEG,Spokane International,2022,1905541.0,1,0,ok
+GFK,Grand Forks International,2022,89819.0,1,0,ok
+GGG,East Texas Regional,2022,25982.0,1,0,ok
+GGW,Wokal Field/Glasgow-Valley County,2022,2982.0,1,0,ok
+GJT,Grand Junction Regional,2022,221682.0,1,0,ok
+GLH,Mid Delta Regional,2022,10452.0,1,0,ok
+GNV,Gainesville Regional,2022,266349.0,1,0,ok
+GPI,Glacier Park International,2022,420635.0,1,0,ok
+GPT,Gulfport-Biloxi International,2022,339323.0,1,0,ok
+GRB,Austin Straubel International,2022,301377.0,1,0,ok
+GRI,Central Nebraska Regional,2022,65795.0,1,0,ok
+GRK,Robert Gray AAF,2022,126160.0,1,0,ok
+GRO,Benjamin Taisacan Manglona International,2022,11307.0,1,0,ok
+GRR,Gerald R Ford International,2022,1716904.0,1,0,ok
+GSN,Francisco C Ada/Saipan International,2022,162909.0,1,0,ok
+GSO,Piedmont Triad International,2022,791955.0,1,0,ok
+GSP,Greenville Spartanburg International,2022,1070422.0,1,0,ok
+GST,Gustavus,2022,10179.0,1,0,ok
+GTF,Great Falls International,2022,141802.0,1,0,ok
+GTR,Golden Triangle Regional,2022,42896.0,1,0,ok
+GUC,Gunnison-Crested Butte Regional,2022,52040.0,1,0,ok
+GUM,Guam International,2022,425651.0,1,0,ok
+HDN,Yampa Valley,2022,197088.0,1,0,ok
+HGR,Hagerstown Regional-Richard A Henson Field,2022,32197.0,1,0,ok
+HHR,Jack Northrop Field/Hawthorne Municipal,2022,5001.0,1,0,ok
+HIB,Range Regional,2022,13460.0,1,0,ok
+HLA,Huslia,2022,2849.0,1,0,ok
+HLN,Helena Regional,2022,82191.0,1,0,ok
+HNH,Hoonah,2022,5950.0,1,0,ok
+HNL,Honolulu International,2022,8828395.0,1,0,ok
+HNM,Hana,2022,2562.0,1,0,ok
+HNS,Haines,2022,7253.0,1,0,ok
+HOB,Lea County Regional,2022,17843.0,1,0,ok
+HOM,Homer,2022,35407.0,1,0,ok
+HOT,Memorial Field,2022,4975.0,1,0,ok
+HOU,William P Hobby,2022,6462948.0,1,0,ok
+HPB,Hooper Bay,2022,4699.0,1,0,ok
+HPN,Westchester County,2022,916700.0,1,0,ok
+HRL,Valley International,2022,508867.0,1,0,ok
+HRO,Boone County,2022,5780.0,1,0,ok
+HSV,Huntsville International-Carl T Jones Field,2022,587572.0,1,0,ok
+HTS,Tri-State/Milton J Ferguson Field,2022,91091.0,1,0,ok
+HVN,Tweed-New Haven,2022,351867.0,1,0,ok
+HVR,Havre City-County,2022,2863.0,1,0,ok
+HXD,Hilton Head,2022,114475.0,1,0,ok
+HYA,Barnstable Municipal-Boardman/Polando Field,2022,15562.0,1,0,ok
+HYS,Hays Regional,2022,10089.0,1,0,ok
+IAD,Washington Dulles International,2022,10266324.0,1,0,ok
+IAG,Niagara Falls International,2022,58741.0,1,0,ok
+IAH,George Bush Intercontinental/Houston,2022,19814052.0,1,0,ok
+ICT,Wichita Mid-Continent,2022,762443.0,1,0,ok
+IDA,Idaho Falls Regional,2022,308414.0,1,0,ok
+IFP,Laughlin/Bullhead International,2022,55106.0,1,0,ok
+IIK,Kipnuk,2022,4221.0,1,0,ok
+ILG,New Castle,2022,5006.0,1,0,ok
+ILI,Iliamna,2022,4280.0,1,0,ok
+ILM,Wilmington International,2022,537591.0,1,0,ok
+IMT,Ford,2022,20727.0,1,0,ok
+IND,Indianapolis International,2022,4209416.0,1,0,ok
+INL,Falls International,2022,12260.0,1,0,ok
+IPL,Imperial County,2022,9180.0,1,0,ok
+IRK,Kirksville Regional,2022,4667.0,1,0,ok
+ISP,Long Island MacArthur,2022,611749.0,1,0,ok
+ITH,Ithaca Tompkins Regional,2022,56509.0,1,0,ok
+ITO,Hilo International,2022,636426.0,1,0,ok
+IWA,Phoenix-Mesa Gateway,2022,973491.0,1,0,ok
+IWD,Gogebic-Iron County,2022,7027.0,1,0,ok
+JAC,Jackson Hole,2022,399897.0,1,0,ok
+JAN,Jackson-Medgar Wiley Evers International,2022,598799.0,1,0,ok
+JAX,Jacksonville International,2022,3177393.0,1,0,ok
+JBR,Jonesboro Municipal,2022,3812.0,1,0,ok
+JFK,John F Kennedy International,2022,27154885.0,1,0,ok
+JLN,Joplin Regional,2022,20786.0,1,0,ok
+JMS,Jamestown Regional,2022,11299.0,1,0,ok
+JNU,Juneau International,2022,403587.0,1,0,ok
+JQF,Concord-Padgett Regional,2022,124276.0,1,0,ok
+JST,John Murtha Johnstown-Cambria County,2022,7764.0,1,0,ok
+KAE,Kake,2022,3431.0,1,0,ok
+KOA,Kona International at Keahole,2022,2006013.0,1,0,ok
+KSM,St Mary's,2022,4680.0,1,0,ok
+KTN,Ketchikan International,2022,143786.0,1,0,ok
+KVC,King Cove,2022,3036.0,1,0,ok
+KVL,Kivalina,2022,2896.0,1,0,ok
+LAN,Capital Region International,2022,83426.0,1,0,ok
+LAR,Laramie Regional,2022,17982.0,1,0,ok
+LAS,McCarran International,2022,25480500.0,1,0,ok
+LAW,Lawton-Fort Sill Regional,2022,41890.0,1,0,ok
+LAX,Los Angeles International,2022,32326616.0,1,0,ok
+LBB,Lubbock Preston Smith International,2022,489710.0,1,0,ok
+LBE,Arnold Palmer Regional,2022,124422.0,1,0,ok
+LBF,North Platte Regional Airport Lee Bird Field,2022,12306.0,1,0,ok
+LBL,Liberal Mid-America Regional,2022,8019.0,1,0,ok
+LCH,Lake Charles Regional,2022,61288.0,1,0,ok
+LCK,Rickenbacker International,2022,147957.0,1,0,ok
+LEB,Lebanon Municipal,2022,9855.0,1,0,ok
+LEX,Blue Grass,2022,577424.0,1,0,ok
+LFT,Lafayette Regional,2022,226249.0,1,0,ok
+LGA,La Guardia,2022,14367463.0,1,0,ok
+LGB,Long Beach /Daugherty Field/,2022,1600987.0,1,0,ok
+LIH,Lihue,2022,1786786.0,1,0,ok
+LIT,Adams Field,2022,983530.0,1,0,ok
+LNK,Lincoln,2022,93953.0,1,0,ok
+LNS,Lancaster,2022,6274.0,1,0,ok
+LNY,Lanai,2022,37741.0,1,0,ok
+LRD,Laredo International,2022,139396.0,1,0,ok
+LSE,La Crosse Regional,2022,65268.0,1,0,ok
+LUP,Kalaupapa,2022,6362.0,1,0,ok
+LWB,Greenbrier Valley,2022,10048.0,1,0,ok
+LWS,Lewiston-Nez Perce County,2022,41720.0,1,0,ok
+LYH,Lynchburg Regional/Preston Glenn Field,2022,76642.0,1,0,ok
+MAF,Midland International,2022,633964.0,1,0,ok
+MAZ,Eugenio Maria De Hostos,2022,7059.0,1,0,ok
+MBL,Manistee County-Blacker,2022,5210.0,1,0,ok
+MBS,MBS International,2022,70172.0,1,0,ok
+MCE,Merced Regional/Macready Field,2022,3431.0,1,0,ok
+MCG,McGrath,2022,2700.0,1,0,ok
+MCI,Kansas City International,2022,4796476.0,1,0,ok
+MCN,Middle Georgia Regional,2022,14881.0,1,0,ok
+MCO,Orlando International,2022,24469733.0,1,0,ok
+MCW,Mason City Municipal,2022,6504.0,1,0,ok
+MDT,Harrisburg International,2022,625698.0,1,0,ok
+MDW,Chicago Midway International,2022,9650281.0,1,0,ok
+MEI,Key Field,2022,13999.0,1,0,ok
+MEM,Memphis International,2022,2163692.0,1,0,ok
+MFE,McAllen Miller International,2022,452925.0,1,0,ok
+MFR,Rogue Valley International - Medford,2022,504085.0,1,0,ok
+MGM,Montgomery Regional (Dannelly Field),2022,151755.0,1,0,ok
+MGW,Morgantown Municipal-Walter L. Bill Hart Field,2022,7272.0,1,0,ok
+MHK,Manhattan Regional,2022,79050.0,1,0,ok
+MHT,Manchester,2022,643641.0,1,0,ok
+MIA,Miami International,2022,23949892.0,1,0,ok
+MKE,General Mitchell International,2022,2671281.0,1,0,ok
+MKG,Muskegon County,2022,11292.0,1,0,ok
+MKK,Molokai,2022,98223.0,1,0,ok
+MKL,McKellar-Sipes Regional,2022,3398.0,1,0,ok
+MLB,Melbourne International,2022,339139.0,1,0,ok
+MLI,Quad City International,2022,269885.0,1,0,ok
+MLU,Monroe Regional,2022,89347.0,1,0,ok
+MMH,Mammoth Yosemite,2022,4056.0,1,0,ok
+MOB,Mobile Regional,2022,262048.0,1,0,ok
+MOT,Minot International,2022,139351.0,1,0,ok
+MRI,Merrill Field,2022,31905.0,1,0,ok
+MRY,Monterey Regional,2022,230669.0,1,0,ok
+MSL,Northwest Alabama Regional,2022,7049.0,1,0,ok
+MSN,Dane County Regional-Truax Field,2022,916230.0,1,0,ok
+MSO,Missoula International,2022,425093.0,1,0,ok
+MSP,Minneapolis-St Paul International/Wold-Chamberlain,2022,15242089.0,1,0,ok
+MSS,Massena International-Richards Field,2022,4721.0,1,0,ok
+MSY,Louis Armstrong New Orleans International,2022,5931899.0,1,0,ok
+MTJ,Montrose Regional,2022,233094.0,1,0,ok
+MUE,Waimea-Kohala,2022,4352.0,1,0,ok
+MVY,Martha's Vineyard,2022,70098.0,1,0,ok
+MWA,Williamson County Regional,2022,10399.0,1,0,ok
+MYR,Myrtle Beach International,2022,1706591.0,1,0,ok
+NYL,Yuma MCAS/Yuma International,2022,121864.0,1,0,ok
+OAJ,Albert J Ellis,2022,138235.0,1,0,ok
+OAK,Metropolitan Oakland International,2022,5506232.0,1,0,ok
+OGD,Ogden-Hinckley,2022,12024.0,1,0,ok
+OGG,Kahului,2022,4125311.0,1,0,ok
+OGS,Ogdensburg International,2022,7841.0,1,0,ok
+OKC,Will Rogers World,2022,1928418.0,1,0,ok
+OLF,L M Clayton,2022,3207.0,1,0,ok
+OMA,Eppley Airfield,2022,2204395.0,1,0,ok
+OME,Nome,2022,62785.0,1,0,ok
+ONT,Ontario International,2022,2840758.0,1,0,ok
+OOK,Toksook Bay,2022,3279.0,1,0,ok
+ORD,Chicago O'Hare International,2022,33120474.0,1,0,ok
+ORF,Norfolk International,2022,2065116.0,1,0,ok
+ORH,Worcester Regional,2022,80089.0,1,0,ok
+ORS,Orcas Island,2022,7365.0,1,0,ok
+OTH,Southwest Oregon Regional,2022,17061.0,1,0,ok
+OTZ,Ralph Wien Memorial,2022,56851.0,1,0,ok
+OWB,Owensboro-Daviess County,2022,15636.0,1,0,ok
+PAE,Snohomish County (Paine Field),2022,260724.0,1,0,ok
+PAH,Barkley Regional,2022,14677.0,1,0,ok
+PBG,Plattsburgh International,2022,74668.0,1,0,ok
+PBI,Palm Beach International,2022,3257730.0,1,0,ok
+PDT,Eastern Oregon Regional at Pendleton,2022,5079.0,1,0,ok
+PDX,Portland International,2022,7241882.0,1,0,ok
+PGA,Page Municipal,2022,20403.0,1,0,ok
+PGD,Punta Gorda,2022,920673.0,1,0,ok
+PGV,Pitt-Greenville,2022,32448.0,1,0,ok
+PHF,Newport News/Williamsburg International,2022,80228.0,1,0,ok
+PHL,Philadelphia International,2022,12421168.0,1,0,ok
+PHO,Point Hope,2022,3572.0,1,0,ok
+PHX,Phoenix Sky Harbor International,2022,21852586.0,1,0,ok
+PIA,General Downing - Peoria International,2022,284322.0,1,0,ok
+PIB,Hattiesburg-Laurel Regional,2022,13125.0,1,0,ok
+PIE,St Pete-Clearwater International,2022,1221120.0,1,0,ok
+PIH,Pocatello Regional,2022,11961.0,1,0,ok
+PIR,Pierre Regional,2022,16441.0,1,0,ok
+PIT,Pittsburgh International,2022,3918968.0,1,0,ok
+PKB,Mid-Ohio Valley Regional,2022,5032.0,1,0,ok
+PLN,Pellston Regional Airport of Emmet County,2022,25408.0,1,0,ok
+PNS,Pensacola International,2022,1211919.0,1,0,ok
+PPG,Pago Pago International,2022,21690.0,1,0,ok
+PQI,Northern Maine Regional Airport at Presque Isle,2022,15428.0,1,0,ok
+PRC,Ernest A. Love Field,2022,24100.0,1,0,ok
+PSC,Tri-Cities,2022,390762.0,1,0,ok
+PSE,Mercedita,2022,109691.0,1,0,ok
+PSG,Petersburg James A Johnson,2022,23955.0,1,0,ok
+PSM,Portsmouth International at Pease,2022,64314.0,1,0,ok
+PSP,Palm Springs International,2022,1499987.0,1,0,ok
+PUB,Pueblo Memorial,2022,7984.0,1,0,ok
+PUW,Pullman/Moscow Regional,2022,75027.0,1,0,ok
+PVC,Provincetown Municipal,2022,7417.0,1,0,ok
+PVD,Theodore Francis Green State,2022,1571905.0,1,0,ok
+PVU,Provo Municipal,2022,211741.0,1,0,ok
+PWM,Portland International Jetport,2022,982834.0,1,0,ok
+RAP,Rapid City Regional,2022,331345.0,1,0,ok
+RDD,Redding Municipal,2022,98725.0,1,0,ok
+RDM,Roberts Field,2022,513659.0,1,0,ok
+RDU,Raleigh-Durham International,2022,5849665.0,1,0,ok
+RFD,Chicago/Rockford International,2022,121544.0,1,0,ok
+RHI,Rhinelander-Oneida County,2022,20922.0,1,0,ok
+RIC,Richmond International,2022,2042834.0,1,0,ok
+RIW,Riverton Regional,2022,12972.0,1,0,ok
+RKD,Knox County Regional,2022,11200.0,1,0,ok
+RKS,Rock Springs-Sweetwater County,2022,15192.0,1,0,ok
+RNO,Reno/Tahoe International,2022,2132856.0,1,0,ok
+ROA,Roanoke Regional/Woodrum Field,2022,299858.0,1,0,ok
+ROC,Greater Rochester International,2022,1156276.0,1,0,ok
+ROW,Roswell International Air Center,2022,55563.0,1,0,ok
+RST,Rochester International,2022,84504.0,1,0,ok
+RSW,Southwest Florida International,2022,5132694.0,1,0,ok
+RUT,Rutland - Southern Vermont Regional,2022,5540.0,1,0,ok
+RVR,Jose Aponte De La Torre,2022,28966.0,1,0,ok
+S31,Lopez Island,2022,2937.0,1,0,ok
+SAF,Santa Fe Municipal,2022,123452.0,1,0,ok
+SAN,San Diego International,2022,11162224.0,1,0,ok
+SAT,San Antonio International,2022,4751610.0,1,0,ok
+SAV,Savannah/Hilton Head International,2022,1726444.0,1,0,ok
+SAW,Sawyer International,2022,42664.0,1,0,ok
+SBA,Santa Barbara Municipal,2022,610916.0,1,0,ok
+SBD,San Bernardino International,2022,10142.0,1,0,ok
+SBN,South Bend International,2022,363078.0,1,0,ok
+SBP,San Luis County Regional,2022,273690.0,1,0,ok
+SBY,Salisbury-Ocean City Wicomico Regional,2022,47275.0,1,0,ok
+SCC,Deadhorse,2022,73334.0,1,0,ok
+SCK,Stockton Metropolitan,2022,74529.0,1,0,ok
+SCM,Scammon Bay,2022,3550.0,1,0,ok
+SDF,Louisville International-Standiford Field,2022,1893647.0,1,0,ok
+SDP,Sand Point,2022,2552.0,1,0,ok
+SDY,Sidney-Richland Municipal,2022,6535.0,1,0,ok
+SEA,Seattle-Tacoma International,2022,22157862.0,1,0,ok
+SFB,Orlando Sanford International,2022,1367935.0,1,0,ok
+SFO,San Francisco International,2022,20411420.0,1,0,ok
+SGF,Springfield-Branson National,2022,539571.0,1,0,ok
+SGU,St George Municipal,2022,128453.0,1,0,ok
+SGY,Skagway,2022,5293.0,1,0,ok
+SHD,Shenandoah Valley Regional,2022,10400.0,1,0,ok
+SHH,Shishmaref,2022,3552.0,1,0,ok
+SHR,Sheridan County,2022,25104.0,1,0,ok
+SHV,Shreveport Regional,2022,272981.0,1,0,ok
+SIG,Fernando Luis Ribas Dominicci,2022,16600.0,1,0,ok
+SIT,Sitka Rocky Gutierrez,2022,94648.0,1,0,ok
+SJC,Norman Y Mineta San Jose International,2022,5590137.0,1,0,ok
+SJT,San Angelo Regional/Mathis Field,2022,54347.0,1,0,ok
+SJU,Luis Munoz Marin International,2022,5039771.0,1,0,ok
+SKX,Taos Regional,2022,6891.0,1,0,ok
+SLC,Salt Lake City International,2022,12383843.0,1,0,ok
+SLK,Adirondack Regional,2022,5181.0,1,0,ok
+SLN,Salina Regional,2022,20252.0,1,0,ok
+SMF,Sacramento International,2022,6040824.0,1,0,ok
+SMX,Santa Maria Public/Capt G Allan Hancock Field,2022,15911.0,1,0,ok
+SNA,John Wayne Airport-Orange County,2022,5536313.0,1,0,ok
+SOV,Seldovia,2022,3738.0,1,0,ok
+SOW,Show Low Regional,2022,4535.0,1,0,ok
+SPI,Abraham Lincoln Capital,2022,72466.0,1,0,ok
+SPS,Sheppard AFB/Wichita Falls Municipal,2022,27720.0,1,0,ok
+SQL,San Carlos,2022,2957.0,1,0,ok
+SRQ,Sarasota/Bradenton International,2022,1911999.0,1,0,ok
+STC,St. Cloud Regional,2022,18347.0,1,0,ok
+STL,Lambert-St Louis International,2022,6709080.0,1,0,ok
+STS,Charles M Schulz - Sonoma County,2022,304053.0,1,0,ok
+STT,Cyril E King,2022,719594.0,1,0,ok
+STX,Henry E Rohlsen,2022,204320.0,1,0,ok
+SUN,Friedman Memorial,2022,100586.0,1,0,ok
+SUX,Sioux Gateway/Col. Bud Day Field,2022,25874.0,1,0,ok
+SVA,Savoonga,2022,3085.0,1,0,ok
+SVC,Grant County,2022,6550.0,1,0,ok
+SWF,Stewart International,2022,154070.0,1,0,ok
+SWO,Stillwater Regional,2022,28867.0,1,0,ok
+SYR,Syracuse Hancock International,2022,1244921.0,1,0,ok
+TBN,Waynesville-St Robert Regional Forney Field,2022,7988.0,1,0,ok
+TEX,Telluride Regional,2022,11650.0,1,0,ok
+TLH,Tallahassee Regional,2022,397029.0,1,0,ok
+TNI,Tinian International,2022,26926.0,1,0,ok
+TOG,Togiak,2022,2727.0,1,0,ok
+TOL,Toledo Express,2022,85451.0,1,0,ok
+TPA,Tampa International,2022,10539459.0,1,0,ok
+TRI,Tri-Cities Regional TN/VA,2022,191882.0,1,0,ok
+TTN,Trenton Mercer,2022,328511.0,1,0,ok
+TUL,Tulsa International,2022,1447126.0,1,0,ok
+TUP,Tupelo Regional,2022,15590.0,1,0,ok
+TUS,Tucson International,2022,1699305.0,1,0,ok
+TVC,Cherry Capital,2022,288850.0,1,0,ok
+TVF,Thief River Falls Regional,2022,8648.0,1,0,ok
+TWF,Joslin Field - Magic Valley Regional,2022,16548.0,1,0,ok
+TXK,Texarkana Regional-Webb Field,2022,35590.0,1,0,ok
+TYR,Tyler Pounds Regional,2022,40548.0,1,0,ok
+TYS,McGhee Tyson,2022,1216383.0,1,0,ok
+UIN,Quincy Regional-Baldwin Field,2022,4774.0,1,0,ok
+UNK,Unalakleet,2022,8137.0,1,0,ok
+UNV,University Park,2022,112474.0,1,0,ok
+VAK,Chevak,2022,4810.0,1,0,ok
+VCT,Victoria Regional,2022,7505.0,1,0,ok
+VDZ,Valdez Pioneer Field,2022,5557.0,1,0,ok
+VEL,Vernal Regional,2022,11071.0,1,0,ok
+VLD,Valdosta Regional,2022,38517.0,1,0,ok
+VPS,Eglin AFB,2022,985567.0,1,0,ok
+VQS,Antonio Rivera Rodriguez,2022,39529.0,1,0,ok
+W33,Friday Harbor,2022,5562.0,1,0,ok
+WLK,Selawik,2022,3522.0,1,0,ok
+WRG,Wrangell,2022,13337.0,1,0,ok
+WST,Westerly State,2022,14435.0,1,0,ok
+WTK,Noatak,2022,3402.0,1,0,ok
+WYS,Yellowstone,2022,7346.0,1,0,ok
+XNA,Northwest Arkansas Regional,2022,812848.0,1,0,ok
+XWA,Williston Basin International,2022,66287.0,1,0,ok
+YAK,Yakutat,2022,12139.0,1,0,ok
+YKM,Yakima Air Terminal/McAllister Field,2022,36383.0,1,0,ok
+Z09,Kasigluk,2022,3182.0,1,0,ok

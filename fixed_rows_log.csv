@@ -1,0 +1,9 @@
+year,source_file,airport_code_raw,airport_code_std_raw,airport_code_std,airport_name_raw,enplanements_raw,ocr_code_conf,ocr_total_conf,ocr_page,ocr_line_id,code_fix_reason
+2000,cy00_commercial_carrier.pdf,17Z,17Z,MBA,MANOKOTAK,"12,522",91.170319,96.659904,2.0,"(1, 1, 4)",name_norm_mapping
+2000,cy00_commercial_carrier.pdf,OAK,OAK,0AK,PILOT STATION,"3,903",94.982918,96.197372,2.0,"(1, 1, 36)",name_norm_mapping
+2000,cy00_commercial_carrier.pdf,A85,A85,GGV,KWIGILLINGOK,"3,209",60.109234,96.017601,3.0,"(1, 1, 8)",name_norm_mapping
+2000,cy00_commercial_carrier.pdf,HSL,HSL,HLA,HUSLIA,"2,848",96.858627,96.512115,3.0,"(1, 1, 19)",name_norm_mapping
+2000,cy00_commercial_carrier.pdf,BIM,BIM,BTM,BERT MOONEY,"47,949",88.827568,96.652245,10.0,"(1, 4, 7)",name_norm_mapping
+2000,cy00_commercial_carrier.pdf,TIN,TIN,TTN,TRENTON MERCER,"77,466",78.210701,95.152748,11.0,"(1, 4, 3)",name_norm_mapping
+2000,cy00_commercial_carrier.pdf,BIV,BIV,BTV,BURLINGTON INTL,"446,363",92.781616,91.571518,16.0,"(1, 4, 1)",name_norm_mapping
+2000,cy00_commercial_carrier.pdf,W33,W33,FHR,FRIDAY HARBOR,"4,088",53.878296,96.439751,17.0,"(1, 1, 14)",name_norm_mapping

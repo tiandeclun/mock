@@ -1,0 +1,693 @@
+airport_code_std,airport_name_std,n_years_observed,first_year,last_year,missing_years_count
+ABE,Lehigh Valley International,25,2000,2024,0
+ABI,Abilene Regional,25,2000,2024,0
+ABQ,Albuquerque International Sunport,25,2000,2024,0
+ABR,Aberdeen Regional,25,2000,2024,0
+ABY,Southwest Georgia Regional,25,2000,2024,0
+ACK,Nantucket Memorial,25,2000,2024,0
+ACT,Waco Regional,25,2000,2024,0
+ACV,Arcata,25,2000,2024,0
+ACY,Atlantic City International,25,2000,2024,0
+ADQ,Kodiak,25,2000,2024,0
+AEX,Alexandria International,25,2000,2024,0
+AGS,Augusta Regional at Bush Field,25,2000,2024,0
+AKN,King Salmon,25,2000,2024,0
+ALB,Albany International,25,2000,2024,0
+ALO,Waterloo Regional,25,2000,2024,0
+ALS,San Luis Valley Regional/Bergman Field,25,2000,2024,0
+ALW,Walla Walla Regional,25,2000,2024,0
+AMA,Rick Husband Amarillo International,25,2000,2024,0
+ANC,Ted Stevens Anchorage International,25,2000,2024,0
+ANI,Aniak,25,2000,2024,0
+APN,Alpena County Regional,25,2000,2024,0
+ASE,Aspen-Pitkin County/Sardy Field,25,2000,2024,0
+ATL,Hartsfield - Jackson Atlanta International,25,2000,2024,0
+ATW,Outagamie County Regional,25,2000,2024,0
+AUS,Austin-Bergstrom International,25,2000,2024,0
+AVL,Asheville Regional,25,2000,2024,0
+AZO,Kalamazoo/Battle Creek International,25,2000,2024,0
+BDL,Bradley International,25,2000,2024,0
+BET,Bethel,25,2000,2024,0
+BFF,Western Nebraska Regional/William B Heilig Field,25,2000,2024,0
+BFI,Boeing Field/King County International,25,2000,2024,0
+BFL,Meadows Field,25,2000,2024,0
+BGM,Greater Binghamton/Edwin A Link Field,25,2000,2024,0
+BGR,Bangor International,25,2000,2024,0
+BHB,Hancock County-Bar Harbor,25,2000,2024,0
+BHM,Birmingham-Shuttlesworth International,25,2000,2024,0
+BIL,Billings Logan International,25,2000,2024,0
+BIS,Bismarck Municipal,25,2000,2024,0
+BLI,Bellingham International,25,2000,2024,0
+BMI,Central IL Regional Airport at Bloomington-Normal,25,2000,2024,0
+BNA,Nashville International,25,2000,2024,0
+BPT,Jack Brooks Regional,25,2000,2024,0
+BQK,Brunswick Golden Isles,25,2000,2024,0
+BQN,Rafael Hernandez,25,2000,2024,0
+BRD,Brainerd Lakes Regional,25,2000,2024,0
+BRO,Brownsville/South Padre Island International,25,2000,2024,0
+BRW,Wiley Post-Will Rogers Memorial,25,2000,2024,0
+BTM,Bert Mooney,25,2000,2024,0
+BTR,"Baton Rouge Metropolitan, Ryan Field",25,2000,2024,0
+BTV,Burlington International,25,2000,2024,0
+BUF,Buffalo Niagara International,25,2000,2024,0
+BUR,Bob Hope,25,2000,2024,0
+BWI,Baltimore/Washington International Thurgood Marshall,25,2000,2024,0
+BZN,Bozeman Yellowstone International,25,2000,2024,0
+CAE,Columbia Metropolitan,25,2000,2024,0
+CAK,Akron-Canton Regional,25,2000,2024,0
+CDB,Cold Bay,25,2000,2024,0
+CDC,Cedar City Regional,25,2000,2024,0
+CDV,Merle K (Mudhole) Smith,25,2000,2024,0
+CEC,Jack McNamara Field,25,2000,2024,0
+CHA,Lovell Field,25,2000,2024,0
+CHO,Charlottesville-Albemarle,25,2000,2024,0
+CHS,Charleston AFB/International,25,2000,2024,0
+CID,The Eastern Iowa,25,2000,2024,0
+CKB,North Central West Virginia,25,2000,2024,0
+CLE,Cleveland-Hopkins International,25,2000,2024,0
+CLL,Easterwood Field,25,2000,2024,0
+CLT,Charlotte/Douglas International,25,2000,2024,0
+CMH,Port Columbus International,25,2000,2024,0
+CMI,University of Illinois-Willard,25,2000,2024,0
+COS,City of Colorado Springs Municipal,25,2000,2024,0
+CPR,Casper/Natrona County International,25,2000,2024,0
+CRP,Corpus Christi International,25,2000,2024,0
+CRW,Yeager,25,2000,2024,0
+CSG,Columbus,25,2000,2024,0
+CVG,Cincinnati/Northern Kentucky International,25,2000,2024,0
+CWA,Central Wisconsin,25,2000,2024,0
+DAB,Daytona Beach International,25,2000,2024,0
+DAL,Dallas Love Field,25,2000,2024,0
+DAY,James M Cox Dayton International,25,2000,2024,0
+DBQ,Dubuque Regional,25,2000,2024,0
+DEN,Denver International,25,2000,2024,0
+DFW,Dallas/Fort Worth International,25,2000,2024,0
+DHN,Dothan Regional,25,2000,2024,0
+DIK,Dickinson - Theodore Roosevelt Regional,25,2000,2024,0
+DLG,Dillingham,25,2000,2024,0
+DLH,Duluth International,25,2000,2024,0
+DRO,Durango-La Plata County,25,2000,2024,0
+DSM,Des Moines International,25,2000,2024,0
+DTW,Detroit Metropolitan Wayne County,25,2000,2024,0
+DUT,Unalaska,25,2000,2024,0
+EAR,Kearney Regional,25,2000,2024,0
+EAT,Pangborn Memorial,25,2000,2024,0
+EAU,Chippewa Valley Regional,25,2000,2024,0
+EGE,Eagle County Regional,25,2000,2024,0
+EKO,Elko Regional,25,2000,2024,0
+ELM,Elmira/Corning Regional,25,2000,2024,0
+ELP,El Paso International,25,2000,2024,0
+ENA,Kenai Municipal,25,2000,2024,0
+ENM,Emmonak,25,2000,2024,0
+ERI,Erie International/Tom Ridge Field,25,2000,2024,0
+ESC,Delta County,25,2000,2024,0
+EUG,Mahlon Sweet Field,25,2000,2024,0
+EWN,Coastal Carolina Regional,25,2000,2024,0
+EWR,Newark Liberty International,25,2000,2024,0
+EYW,Key West International,25,2000,2024,0
+FAI,Fairbanks International,25,2000,2024,0
+FAR,Hector International,25,2000,2024,0
+FAT,Fresno Yosemite International,25,2000,2024,0
+FAY,Fayetteville Regional/Grannis Field,25,2000,2024,0
+FHR,Friday Harbor,25,2000,2024,0
+FLG,Flagstaff Pulliam,25,2000,2024,0
+FLL,Fort Lauderdale/Hollywood International,25,2000,2024,0
+FLO,Florence Regional,25,2000,2024,0
+FNT,Bishop International,25,2000,2024,0
+FSD,Joe Foss Field,25,2000,2024,0
+FSM,Fort Smith Regional,25,2000,2024,0
+FWA,Fort Wayne International,25,2000,2024,0
+FYU,Fort Yukon,25,2000,2024,0
+GAL,Edward G Pitka Sr,25,2000,2024,0
+GCC,Gillette-Campbell County,25,2000,2024,0
+GCK,Garden City Regional,25,2000,2024,0
+GEG,Spokane International,25,2000,2024,0
+GFK,Grand Forks International,25,2000,2024,0
+GGG,East Texas Regional,25,2000,2024,0
+GJT,Grand Junction Regional,25,2000,2024,0
+GNV,Gainesville Regional,25,2000,2024,0
+GPT,Gulfport-Biloxi International,25,2000,2024,0
+GRB,Austin Straubel International,25,2000,2024,0
+GRI,Central Nebraska Regional,25,2000,2024,0
+GRO,Benjamin Taisacan Manglona International,25,2000,2024,0
+GRR,Gerald R Ford International,25,2000,2024,0
+GSN,Francisco C Ada/Saipan International,25,2000,2024,0
+GSO,Piedmont Triad International,25,2000,2024,0
+GSP,Greenville Spartanburg International,25,2000,2024,0
+GST,Gustavus,25,2000,2024,0
+GTF,Great Falls International,25,2000,2024,0
+GTR,Golden Triangle Regional,25,2000,2024,0
+GUC,Gunnison-Crested Butte Regional,25,2000,2024,0
+GUM,Guam International,25,2000,2024,0
+HDN,Yampa Valley,25,2000,2024,0
+HIB,Range Regional,25,2000,2024,0
+HLN,Helena Regional,25,2000,2024,0
+HNH,Hoonah,25,2000,2024,0
+HNL,Honolulu International,25,2000,2024,0
+HNS,Haines,25,2000,2024,0
+HOM,Homer,25,2000,2024,0
+HOU,William P Hobby,25,2000,2024,0
+HPN,Westchester County,25,2000,2024,0
+HRL,Valley International,25,2000,2024,0
+HSV,Huntsville International-Carl T Jones Field,25,2000,2024,0
+HTS,Tri-State/Milton J Ferguson Field,25,2000,2024,0
+HVN,Tweed-New Haven,25,2000,2024,0
+HXD,Hilton Head,25,2000,2024,0
+HYA,Barnstable Municipal-Boardman/Polando Field,25,2000,2024,0
+HYS,Hays Regional,25,2000,2024,0
+IAD,Washington Dulles International,25,2000,2024,0
+IAH,George Bush Intercontinental/Houston,25,2000,2024,0
+ICT,Wichita Mid-Continent,25,2000,2024,0
+IDA,Idaho Falls Regional,25,2000,2024,0
+ILI,Iliamna,25,2000,2024,0
+ILM,Wilmington International,25,2000,2024,0
+IMT,Ford,25,2000,2024,0
+IND,Indianapolis International,25,2000,2024,0
+INL,Falls International,25,2000,2024,0
+ISP,Long Island MacArthur,25,2000,2024,0
+ITH,Ithaca Tompkins Regional,25,2000,2024,0
+ITO,Hilo International,25,2000,2024,0
+JAC,Jackson Hole,25,2000,2024,0
+JAN,Jackson-Medgar Wiley Evers International,25,2000,2024,0
+JAX,Jacksonville International,25,2000,2024,0
+JFK,John F Kennedy International,25,2000,2024,0
+JLN,Joplin Regional,25,2000,2024,0
+JNU,Juneau International,25,2000,2024,0
+JST,John Murtha Johnstown-Cambria County,25,2000,2024,0
+KOA,Kona International at Keahole,25,2000,2024,0
+KTN,Ketchikan International,25,2000,2024,0
+LAN,Capital Region International,25,2000,2024,0
+LAR,Laramie Regional,25,2000,2024,0
+LAS,McCarran International,25,2000,2024,0
+LAW,Lawton-Fort Sill Regional,25,2000,2024,0
+LAX,Los Angeles International,25,2000,2024,0
+LBB,Lubbock Preston Smith International,25,2000,2024,0
+LCH,Lake Charles Regional,25,2000,2024,0
+LEB,Lebanon Municipal,25,2000,2024,0
+LEX,Blue Grass,25,2000,2024,0
+LFT,Lafayette Regional,25,2000,2024,0
+LGA,La Guardia,25,2000,2024,0
+LGB,Long Beach /Daugherty Field/,25,2000,2024,0
+LIH,Lihue,25,2000,2024,0
+LIT,Adams Field,25,2000,2024,0
+LNK,Lincoln,25,2000,2024,0
+LNY,Lanai,25,2000,2024,0
+LRD,Laredo International,25,2000,2024,0
+LSE,La Crosse Regional,25,2000,2024,0
+LWB,Greenbrier Valley,25,2000,2024,0
+LWS,Lewiston-Nez Perce County,25,2000,2024,0
+LYH,Lynchburg Regional/Preston Glenn Field,25,2000,2024,0
+MAF,Midland International,25,2000,2024,0
+MAZ,Eugenio Maria De Hostos,25,2000,2024,0
+MBS,MBS International,25,2000,2024,0
+MCI,Kansas City International,25,2000,2024,0
+MCO,Orlando International,25,2000,2024,0
+MDT,Harrisburg International,25,2000,2024,0
+MDW,Chicago Midway International,25,2000,2024,0
+MEI,Key Field,25,2000,2024,0
+MEM,Memphis International,25,2000,2024,0
+MFE,McAllen Miller International,25,2000,2024,0
+MFR,Rogue Valley International - Medford,25,2000,2024,0
+MGM,Montgomery Regional (Dannelly Field),25,2000,2024,0
+MGW,Morgantown Municipal-Walter L. Bill Hart Field,25,2000,2024,0
+MHK,Manhattan Regional,25,2000,2024,0
+MHT,Manchester,25,2000,2024,0
+MIA,Miami International,25,2000,2024,0
+MKE,General Mitchell International,25,2000,2024,0
+MKG,Muskegon County,25,2000,2024,0
+MKK,Molokai,25,2000,2024,0
+MLB,Melbourne International,25,2000,2024,0
+MLI,Quad City International,25,2000,2024,0
+MLU,Monroe Regional,25,2000,2024,0
+MOB,Mobile Regional,25,2000,2024,0
+MOT,Minot International,25,2000,2024,0
+MRI,Merrill Field,25,2000,2024,0
+MRY,Monterey Regional,25,2000,2024,0
+MSN,Dane County Regional-Truax Field,25,2000,2024,0
+MSO,Missoula International,25,2000,2024,0
+MSP,Minneapolis-St Paul International/Wold-Chamberlain,25,2000,2024,0
+MSY,Louis Armstrong New Orleans International,25,2000,2024,0
+MTJ,Montrose Regional,25,2000,2024,0
+MVY,Martha's Vineyard,25,2000,2024,0
+MWA,Williamson County Regional,25,2000,2024,0
+MYR,Myrtle Beach International,25,2000,2024,0
+OAJ,Albert J Ellis,25,2000,2024,0
+OAK,Metropolitan Oakland International,25,2000,2024,0
+OGG,Kahului,25,2000,2024,0
+OKC,Will Rogers World,25,2000,2024,0
+OMA,Eppley Airfield,25,2000,2024,0
+OME,Nome,25,2000,2024,0
+ONT,Ontario International,25,2000,2024,0
+ORD,Chicago O'Hare International,25,2000,2024,0
+ORF,Norfolk International,25,2000,2024,0
+OTH,Southwest Oregon Regional,25,2000,2024,0
+OTZ,Ralph Wien Memorial,25,2000,2024,0
+PAH,Barkley Regional,25,2000,2024,0
+PDT,Eastern Oregon Regional at Pendleton,25,2000,2024,0
+PDX,Portland International,25,2000,2024,0
+PGA,Page Municipal,25,2000,2024,0
+PGV,Pitt-Greenville,25,2000,2024,0
+PHF,Newport News/Williamsburg International,25,2000,2024,0
+PHL,Philadelphia International,25,2000,2024,0
+PHX,Phoenix Sky Harbor International,25,2000,2024,0
+PIA,General Downing - Peoria International,25,2000,2024,0
+PIB,Hattiesburg-Laurel Regional,25,2000,2024,0
+PIE,St Pete-Clearwater International,25,2000,2024,0
+PIH,Pocatello Regional,25,2000,2024,0
+PIR,Pierre Regional,25,2000,2024,0
+PIT,Pittsburgh International,25,2000,2024,0
+PKB,Mid-Ohio Valley Regional,25,2000,2024,0
+PLN,Pellston Regional Airport of Emmet County,25,2000,2024,0
+PNS,Pensacola International,25,2000,2024,0
+PPG,Pago Pago International,25,2000,2024,0
+PQI,Northern Maine Regional Airport at Presque Isle,25,2000,2024,0
+PRC,Ernest A. Love Field,25,2000,2024,0
+PSC,Tri-Cities,25,2000,2024,0
+PSE,Mercedita,25,2000,2024,0
+PSG,Petersburg James A Johnson,25,2000,2024,0
+PSP,Palm Springs International,25,2000,2024,0
+PUW,Pullman/Moscow Regional,25,2000,2024,0
+PVD,Theodore Francis Green State,25,2000,2024,0
+PWM,Portland International Jetport,25,2000,2024,0
+RDD,Redding Municipal,25,2000,2024,0
+RDM,Roberts Field,25,2000,2024,0
+RDU,Raleigh-Durham International,25,2000,2024,0
+RHI,Rhinelander-Oneida County,25,2000,2024,0
+RIW,Riverton Regional,25,2000,2024,0
+RKS,Rock Springs-Sweetwater County,25,2000,2024,0
+RNO,Reno/Tahoe International,25,2000,2024,0
+ROA,Roanoke Regional/Woodrum Field,25,2000,2024,0
+ROC,Greater Rochester International,25,2000,2024,0
+ROW,Roswell International Air Center,25,2000,2024,0
+RST,Rochester International,25,2000,2024,0
+RSW,Southwest Florida International,25,2000,2024,0
+SAT,San Antonio International,25,2000,2024,0
+SAV,Savannah/Hilton Head International,25,2000,2024,0
+SAW,Sawyer International,25,2000,2024,0
+SBA,Santa Barbara Municipal,25,2000,2024,0
+SBN,South Bend International,25,2000,2024,0
+SBY,Salisbury-Ocean City Wicomico Regional,25,2000,2024,0
+SCC,Deadhorse,25,2000,2024,0
+SDF,Louisville International-Standiford Field,25,2000,2024,0
+SEA,Seattle-Tacoma International,25,2000,2024,0
+SFB,Orlando Sanford International,25,2000,2024,0
+SGF,Springfield-Branson National,25,2000,2024,0
+SHV,Shreveport Regional,25,2000,2024,0
+SIT,Sitka Rocky Gutierrez,25,2000,2024,0
+SJC,Norman Y Mineta San Jose International,25,2000,2024,0
+SJT,San Angelo Regional/Mathis Field,25,2000,2024,0
+SJU,Luis Munoz Marin International,25,2000,2024,0
+SLC,Salt Lake City International,25,2000,2024,0
+SMF,Sacramento International,25,2000,2024,0
+SNA,John Wayne Airport-Orange County,25,2000,2024,0
+SPI,Abraham Lincoln Capital,25,2000,2024,0
+SPS,Sheppard AFB/Wichita Falls Municipal,25,2000,2024,0
+SRQ,Sarasota/Bradenton International,25,2000,2024,0
+STT,Cyril E King,25,2000,2024,0
+STX,Henry E Rohlsen,25,2000,2024,0
+SUN,Friedman Memorial,25,2000,2024,0
+SUX,Sioux Gateway/Col. Bud Day Field,25,2000,2024,0
+SWF,Stewart International,25,2000,2024,0
+SYR,Syracuse Hancock International,25,2000,2024,0
+TLH,Tallahassee Regional,25,2000,2024,0
+TNI,Tinian International,25,2000,2024,0
+TOL,Toledo Express,25,2000,2024,0
+TRI,Tri-Cities Regional TN/VA,25,2000,2024,0
+TUL,Tulsa International,25,2000,2024,0
+TUP,Tupelo Regional,25,2000,2024,0
+TUS,Tucson International,25,2000,2024,0
+TWF,Joslin Field - Magic Valley Regional,25,2000,2024,0
+TXK,Texarkana Regional-Webb Field,25,2000,2024,0
+TYR,Tyler Pounds Regional,25,2000,2024,0
+TYS,McGhee Tyson,25,2000,2024,0
+UNK,Unalakleet,25,2000,2024,0
+UNV,University Park,25,2000,2024,0
+VLD,Valdosta Regional,25,2000,2024,0
+VPS,Eglin AFB,25,2000,2024,0
+WRG,Wrangell,25,2000,2024,0
+WYS,Yellowstone,25,2000,2024,0
+XNA,Northwest Arkansas Regional,25,2000,2024,0
+YAK,Yakutat,25,2000,2024,0
+YKM,Yakima Air Terminal/McAllister Field,25,2000,2024,0
+AUG,Augusta State,24,2000,2024,1
+AVP,Wilkes-Barre/Scranton International,24,2001,2024,1
+BID,Block Island State,24,2000,2024,1
+BJI,Bemidji Regional,24,2001,2024,1
+BOI,Boise Air Terminal/Gowen Field,24,2001,2024,1
+BOS,General Edward Lawrence Logan International,24,2001,2024,1
+BVK,Buckland,24,2000,2024,1
+CEZ,Cortez Municipal,24,2000,2024,1
+CIU,Chippewa County International,24,2001,2024,1
+CMX,Houghton County Memorial,24,2001,2024,1
+COD,Yellowstone Regional,24,2001,2024,1
+COU,Columbia Regional,24,2001,2024,1
+CYS,Cheyenne Regional/Jerry Olson Field,24,2000,2024,1
+DCA,Ronald Reagan Washington National,24,2001,2024,1
+DUJ,Dubois Regional,24,2000,2024,1
+DVL,Devils Lake Regional,24,2000,2024,1
+EVV,Evansville Regional,24,2001,2024,1
+FOD,Fort Dodge Regional,24,2000,2024,1
+HGR,Hagerstown Regional-Richard A Henson Field,24,2000,2024,1
+HPB,Hooper Bay,24,2000,2024,1
+IPL,Imperial County,24,2000,2024,1
+KSM,St Mary's,24,2000,2024,1
+LBE,Arnold Palmer Regional,24,2000,2024,1
+LBF,North Platte Regional Airport Lee Bird Field,24,2001,2024,1
+LBL,Liberal Mid-America Regional,24,2000,2024,1
+MCW,Mason City Municipal,24,2000,2024,1
+ORS,Orcas Island,24,2000,2024,1
+PBI,Palm Beach International,24,2001,2024,1
+PHO,Point Hope,24,2000,2024,1
+PVC,Provincetown Municipal,24,2001,2024,1
+RAP,Rapid City Regional,24,2001,2024,1
+RFD,Chicago/Rockford International,24,2000,2024,1
+RIC,Richmond International,24,2001,2024,1
+RKD,Knox County Regional,24,2000,2024,1
+SAF,Santa Fe Municipal,24,2000,2024,1
+SAN,San Diego International,24,2001,2024,1
+SBP,San Luis County Regional,24,2001,2024,1
+SDY,Sidney-Richland Municipal,24,2000,2024,1
+SFO,San Francisco International,24,2001,2024,1
+SGU,St George Municipal,24,2000,2024,1
+SGY,Skagway,24,2000,2024,1
+SHD,Shenandoah Valley Regional,24,2001,2024,1
+SIG,Fernando Luis Ribas Dominicci,24,2001,2024,1
+SLN,Salina Regional,24,2000,2024,1
+SMX,Santa Maria Public/Capt G Allan Hancock Field,24,2001,2024,1
+SOV,Seldovia,24,2001,2024,1
+STL,Lambert-St Louis International,24,2001,2024,1
+TPA,Tampa International,24,2001,2024,1
+TVC,Cherry Capital,24,2001,2024,1
+VDZ,Valdez Pioneer Field,24,2000,2024,1
+VQS,Antonio Rivera Rodriguez,24,2001,2024,1
+WLK,Selawik,24,2000,2024,1
+WST,Westerly State,24,2000,2024,1
+WTK,Noatak,24,2000,2024,1
+0AK,Pilot Station,23,2000,2024,2
+A61,Tuntutuliak,23,2000,2024,2
+AWI,Wainwright,23,2000,2024,2
+BRL,Southeast Iowa Regional,23,2000,2024,2
+DUY,Kongiganak,23,2000,2024,2
+GAM,Gambell,23,2000,2024,2
+GLH,Mid Delta Regional,23,2000,2024,2
+IIK,Kipnuk,23,2001,2024,2
+KVL,Kivalina,23,2000,2024,2
+OOK,Toksook Bay,23,2000,2024,2
+OWB,Owensboro-Daviess County,23,2000,2024,2
+PUB,Pueblo Memorial,23,2000,2023,2
+SCM,Scammon Bay,23,2000,2024,2
+SDP,Sand Point,23,2000,2024,2
+SHH,Shishmaref,23,2000,2024,2
+SHR,Sheridan County,23,2000,2024,2
+SLK,Adirondack Regional,23,2000,2024,2
+SOW,Show Low Regional,23,2000,2024,2
+SVA,Savoonga,23,2000,2024,2
+TBN,Waynesville-St Robert Regional Forney Field,23,2000,2024,2
+VAK,Chevak,23,2000,2024,2
+Z09,Kasigluk,23,2000,2024,2
+AOO,Altoona-Blair County,22,2000,2024,3
+AQH,Quinhagak,22,2002,2024,3
+ATY,Watertown Regional,22,2000,2024,3
+CGI,Cape Girardeau Regional,22,2000,2024,3
+CNY,Canyonlands Field,22,2001,2024,3
+DDC,Dodge City Regional,22,2000,2024,3
+DEC,Decatur,22,2000,2024,3
+HLA,Huslia,22,2000,2024,3
+IAN,Bob Baker Memorial,22,2000,2024,3
+IPT,Williamsport Regional,22,2000,2021,3
+MOU,Mountain Village,22,2000,2024,3
+MSL,Northwest Alabama Regional,22,2000,2024,3
+SCK,Stockton Metropolitan,22,2001,2024,3
+STC,St. Cloud Regional,22,2000,2024,3
+TTN,Trenton Mercer,22,2000,2024,3
+UIN,Quincy Regional-Baldwin Field,22,2001,2024,3
+AKP,Anaktuvuk Pass,21,2001,2024,4
+BFD,Bradford Regional,21,2000,2024,4
+CFK,Chefornak,21,2000,2024,4
+CNM,Cavern City Air Terminal,21,2000,2024,4
+CRQ,McClellan-Palomar,21,2000,2024,4
+D76,Robert /Bob/ Curtis Memorial,21,2002,2024,4
+EEK,Eek,21,2002,2024,4
+EWB,New Bedford Regional,21,2000,2021,4
+GPI,Glacier Park International,21,2004,2024,4
+GRK,Robert Gray AAF,21,2004,2024,4
+KLG,Kalskag,21,2000,2024,4
+LCK,Rickenbacker International,21,2003,2024,4
+MCG,McGrath,21,2000,2024,4
+MSS,Massena International-Richards Field,21,2000,2024,4
+PSM,Portsmouth International at Pease,21,2000,2024,4
+TEX,Telluride Regional,21,2000,2024,4
+VCT,Victoria Regional,21,2000,2024,4
+16A,Nunapitchuk,20,2000,2024,5
+1G4,Grand Canyon West,20,2001,2024,5
+2A9,Kotlik,20,2000,2024,5
+AUK,Alakanuk,20,2000,2024,5
+BLV,Scott AFB/Midamerica,20,2000,2024,5
+GCN,Grand Canyon National Park,20,2000,2019,5
+HRO,Boone County,20,2001,2024,5
+IFP,Laughlin/Bullhead International,20,2001,2022,5
+LHD,Lake Hood,20,2000,2020,5
+LNS,Lancaster,20,2000,2024,5
+MCE,Merced Regional/Macready Field,20,2000,2024,5
+STS,Charles M Schulz - Sonoma County,20,2000,2024,5
+TVF,Thief River Falls Regional,20,2000,2024,5
+ART,Watertown International,19,2000,2024,6
+BKW,Raleigh County Memorial,19,2000,2024,6
+JMS,Jamestown Regional,19,2000,2024,6
+RUT,Rutland - Southern Vermont Regional,19,2000,2024,6
+SNP,St Paul Island,19,2000,2019,6
+TLT,Tuluksak,19,2000,2024,6
+GGV,Kwigillingok,18,2000,2024,7
+ISN,Sloulin Field International,18,2000,2017,7
+IWA,Phoenix-Mesa Gateway,18,2007,2024,7
+IWD,Gogebic-Iron County,18,2004,2024,7
+MDM,Marshall Don Hunter Sr,18,2004,2024,7
+MKL,McKellar-Sipes Regional,18,2000,2024,7
+NYL,Yuma MCAS/Yuma International,18,2007,2024,7
+PBG,Plattsburgh International,18,2007,2024,7
+PGD,Punta Gorda,18,2007,2024,7
+TAL,Ralph M Calhoun Memorial,18,2000,2017,7
+VEL,Vernal Regional,18,2000,2024,7
+YNG,Youngstown-Warren Regional,18,2000,2024,7
+BVU,Boulder City Municipal,17,2008,2024,8
+CGA,Craig,17,2000,2016,8
+FMN,Four Corners Regional,17,2000,2017,8
+FNL,Fort Collins-Loveland Municipal,17,2003,2022,8
+FOE,Forbes Field,17,2000,2019,8
+HOT,Memorial Field,17,2001,2024,8
+KWT,Kwethluk,17,2000,2024,8
+LMT,Klamath Falls,17,2000,2017,8
+RSH,Russian Mission,17,2000,2024,8
+2A3,Larsen Bay,16,2000,2023,9
+JBR,Jonesboro Municipal,16,2000,2022,9
+MCN,Middle Georgia Regional,16,2000,2024,9
+MTM,Metlakatla,16,2000,2016,9
+ORH,Worcester Regional,16,2000,2024,9
+BED,Laurence G Hanscom Field,15,2000,2022,10
+BTI,Barter Island LRRS,15,2002,2019,10
+CPX,Benjamin Rivera Noriega,15,2003,2024,10
+DRT,Del Rio International,15,2005,2023,10
+ECP,Northwest Florida Beaches International,15,2010,2024,10
+HOB,Lea County Regional,15,2001,2024,10
+IAG,Niagara Falls International,15,2010,2024,10
+JHW,Chautauqua County/Jamestown,15,2000,2014,10
+MMH,Mammoth Yosemite,15,2009,2024,10
+MOD,Modesto City County-Harry Sham Field,15,2000,2014,10
+NUL,Nulato,15,2000,2019,10
+OGS,Ogdensburg International,15,2007,2024,10
+RVR,Jose Aponte De La Torre,15,2010,2024,10
+WBB,Stebbins,15,2000,2019,10
+Z13,Akiachak,15,2000,2024,10
+CIC,Chico Municipal,14,2001,2014,11
+CLM,William R Fairchild International,14,2000,2014,11
+CVX,Charlevoix Municipal,14,2000,2014,11
+IRK,Kirksville Regional,14,2011,2024,11
+IYK,Inyokern,14,2000,2013,11
+PVU,Provo Municipal,14,2011,2024,11
+AQT,Nuiqsut,13,2000,2019,12
+MBA,Manokotak,13,2000,2016,12
+OLF,L M Clayton,13,2012,2024,12
+VGT,North Las Vegas,13,2000,2015,12
+AKW,Klawock,12,2001,2024,13
+CVN,Clovis Municipal,12,2000,2024,13
+CXF,Coldfoot,12,2012,2024,13
+ELI,Elim,12,2000,2019,13
+GGW,Wokal Field/Glasgow-Valley County,12,2001,2024,13
+HNM,Hana,12,2000,2024,13
+JQF,Concord-Padgett Regional,12,2013,2024,13
+KVC,King Cove,12,2000,2022,13
+LUP,Kalaupapa,12,2007,2024,13
+OGD,Ogden-Hinckley,12,2012,2024,13
+6R7,Old Harbor,11,2001,2017,14
+AHN,Athens/Ben Epps,11,2000,2010,14
+ELD,South Arkansas Regional at Goodwin Field,11,2012,2024,14
+MBL,Manistee County-Blacker,11,2004,2024,14
+OXR,Oxnard,11,2000,2010,14
+SVC,Grant County,11,2008,2024,14
+WRL,Worland Municipal,11,2000,2013,14
+GYY,Gary/Chicago International,10,2000,2021,15
+ILG,New Castle,10,2000,2024,15
+KEB,Nanwalek,10,2003,2012,15
+KTB,Thorne Bay,10,2000,2014,15
+MUE,Waimea-Kohala,10,2003,2024,15
+PFN,Panama City-Bay County International,10,2000,2009,15
+VIS,Visalia Municipal,10,2001,2015,15
+APF,Naples Municipal,9,2000,2008,16
+EWU,Newtok,9,2002,2017,16
+KAE,Kake,9,2000,2022,16
+SWO,Stillwater Regional,9,2016,2024,16
+4A2,Atmautluak,8,2007,2024,17
+ATK,Atqasuk Edward Burnell Sr Memorial,8,2001,2019,17
+KKA,Koyuk Alfred Adams,8,2002,2019,17
+MWH,Grant County International,8,2000,2009,17
+PGM,Port Graham,8,2003,2010,17
+HVR,Havre City-County,7,2017,2024,18
+ISO,Kinston Regional Jetport at Stallings Field,7,2000,2014,18
+PAE,Snohomish County (Paine Field),7,2018,2024,18
+SMK,St Michael,7,2006,2019,18
+TOG,Togiak,7,2000,2024,18
+VRB,Vero Beach Regional,7,2016,2024,18
+W33,Friday Harbor,7,2014,2024,18
+XWA,Williston Basin International,7,2018,2024,18
+YUM,Yuma MCAS/Yuma International,7,2000,2006,18
+AIA,Alliance Municipal,6,2018,2024,19
+CDR,Chadron Municipal,6,2016,2022,19
+FKL,Venango Regional,6,2000,2005,19
+FXE,Fort Lauderdale Exec,6,2019,2024,19
+HHR,Jack Northrop Field/Hawthorne Municipal,6,2019,2024,19
+HII,Lake Havasu City,6,2001,2006,19
+LAF,Purdue University,6,2000,2024,19
+SGJ,Northeast Florida Regional,6,2007,2017,19
+AFM,Ambler,5,2001,2019,20
+BBG,Branson,5,2020,2024,20
+BCE,Bryce Canyon,5,2000,2006,20
+EFD,Ellington Field,5,2000,2004,20
+GDV,Dawson Community,5,2014,2022,20
+GUP,Gallup Municipal,5,2000,2024,20
+ILE,Killeen Municipal,5,2000,2004,20
+KDK,Kodiak Municipal,5,2000,2004,20
+RDG,Reading Regional/Carl A Spaatz Field,5,2000,2004,20
+VCV,Southern California Logistics,5,2002,2014,20
+X95,Diego Jimenez Torres,5,2000,2004,20
+2C7,Shaktoolik,4,2005,2019,21
+4K5,Ouzinkie,4,2009,2012,21
+74S,Anacortes,4,2000,2004,21
+AFE,Kake,4,2019,2024,21
+AKI,Akiak,4,2005,2024,21
+BFM,Mobile International,4,2019,2024,21
+FCA,Glacier Park International,4,2000,2003,21
+FRG,Republic,4,2011,2014,21
+GON,Groton-New London,4,2000,2003,21
+HND,Henderson Executive,4,2003,2016,21
+IGM,Kingman,4,2000,2003,21
+KAL,Kaltag,4,2002,2006,21
+KTS,Brevig Mission,4,2006,2019,21
+SHG,Shungnak,4,2001,2019,21
+SKX,Taos Regional,4,2001,2022,21
+SLE,McNary Field,4,2007,2024,21
+SOP,Moore County,4,2000,2007,21
+SQL,San Carlos,4,2019,2022,21
+UTA,Tunica Municipal,4,2006,2015,21
+61B,Boulder City Municipal,3,2005,2007,22
+6N5,East 34th Street,3,2007,2009,22
+ADK,Adak,3,2018,2022,22
+BIH,Bishop,3,2022,2024,22
+ENV,Wendover,3,2005,2008,22
+FAQ,Fitiuta,3,2001,2016,22
+GPZ,Grand Rapids/ Itasca Co- Gordon Newstrom Fld,3,2001,2003,22
+HKY,Hickory Regional,3,2000,2005,22
+LUK,Cincinnati Municipal Airport Lunken Field,3,2014,2017,22
+MCK,McCook Ben Nelson Regional,3,2007,2024,22
+N93,Golovin,3,2002,2007,22
+PCW,Carl R Keller Field,3,2000,2002,22
+PMD,Palmdale Regional/USAF Plant 42,3,2005,2008,22
+PNC,Ponca City Regional,3,2000,2002,22
+PTK,Oakland County International,3,2012,2015,22
+SBD,San Bernardino International,3,2022,2024,22
+SJX,Beaver Island,3,2012,2014,22
+T44,Trident Basin,3,2001,2009,22
+WDG,Enid Woodring Regional,3,2000,2002,22
+YIP,Willow Run,3,2011,2018,22
+17Z,Manokotak,2,2001,2003,23
+3A5,Marshall Don Hunter Sr,2,2002,2003,23
+3W2,Put-in-Bay,2,2001,2002,23
+4KA,Tununak,2,2015,2019,23
+6A8,Allakaket,2,2007,2011,23
+A85,Kwigillingok,2,2001,2003,23
+AGN,Angoon,2,2000,2001,23
+BKL,Burke Lakefront,2,2015,2017,23
+BPK,Baxter County Regional,2,2000,2001,23
+CCR,Buchanan Field,2,2017,2018,23
+CEF,Westover ARB/Metropolitan,2,2007,2008,23
+CGX,Merrill C Meigs,2,2000,2001,23
+ELY,Ely /Yelland Field/,2,2005,2006,23
+FHU,Sierra Vista Municipal-Libby AAF,2,2000,2001,23
+HON,Huron Regional,2,2000,2007,23
+HSL,Huslia,2,2001,2002,23
+HYL,Hollis,2,2000,2001,23
+JRF,Kalaeloa (John Rodgers Field),2,2015,2016,23
+LAM,Los Alamos,2,2002,2014,23
+MLL,Marshall,2,2000,2001,23
+MMU,Morristown Municipal,2,2011,2014,23
+OLM,Olympia,2,2003,2004,23
+ORI,Port Lions,2,2001,2009,23
+ORV,Robert /Bob/ Curtis Memorial,2,2000,2001,23
+OSH,Wittman Regional,2,2000,2001,23
+PLB,Clinton Co,2,2000,2001,23
+POU,Dutchess County,2,2000,2001,23
+TEB,Teterboro,2,2006,2007,23
+UCA,Oneida County,2,2000,2001,23
+VEE,Venetie,2,2010,2011,23
+WMO,White Mountain,2,2006,2007,23
+X44,Miami,2,2000,2001,23
+Z08,Ofu,2,2000,2001,23
+3T7,Middle Bass Island,1,2002,2002,24
+5Z9,LAKE BROOKS,1,2000,2000,24
+71V,MONUMENT VALLEY,1,2000,2000,24
+76S,WES LUPIEN,1,2000,2000,24
+7AK,Akutan,1,2019,2019,24
+9K2,KOKHANOK,1,2000,2000,24
+AED,RED DOG,1,2000,2000,24
+ALM,ALAMOGORDO-WHITE SANDS REGIO,1,2000,2000,24
+AST,Astoria Regional,1,2010,2010,24
+BEH,SOUTHWEST MICHIGAN REGIONAL,1,2000,2000,24
+BIT,BETTLES,1,2000,2000,24
+BLF,MERCER COUNTY,1,2000,2000,24
+BLG,BELUGA,1,2000,2000,24
+CBE,GREATER CUMBERLAND REGIONAL,1,2000,2000,24
+DEE,Deering,1,2006,2006,24
+DET,DETROIT CITY,1,2000,2000,24
+DTS,Destin Exec,1,2022,2022,24
+DXZ,St George Municipal,1,2010,2010,24
+HI36,TAU,1,2000,2000,24
+IGT,Nightmute,1,2015,2015,24
+INT,Smith Reynolds,1,2002,2002,24
+JHM,KAPALUA,1,2000,2000,24
+JON,JOHNSTON ATOLL,1,2000,2000,24
+JRB,Port Authority Downtown Manhattan/Wall St,1,2007,2007,24
+KNW,NEW STUYAHOK,1,2000,2000,24
+L41,MARBLE CANYON,1,2000,2000,24
+LAL,Lakeland Linder International,1,2024,2024,24
+LBX,Brazoria Co,1,2003,2003,24
+LRU,LAS CRUCES INTERNATIONAL,1,2000,2000,24
+MER,Castle,1,2012,2012,24
+MTH,THE FLORIDA KEYS MARATHON,1,2000,2000,24
+OFK,KARL STEFAN MEMORIAL,1,2000,2000,24
+ONP,Newport Municipal,1,2010,2010,24
+PDK,Dekalb-Peachtree,1,2017,2017,24
+RNT,Renton Municipal,1,2021,2021,24
+RWI,ROCKY MOUNT-WILSON RGNL,1,2000,2000,24
+S31,Lopez Island,1,2022,2022,24
+S60,KENMORE AIR HARBOR INC.,1,2000,2000,24
+SDL,Scottsdale,1,2005,2005,24
+SKE,KETCHIKAN HARBOR,1,2000,2000,24
+SKY,GRIFFING SANDUSKY,1,2000,2000,24
+SPW,SPENCER MUNI,1,2000,2000,24
+TCL,Tuscaloosa Regional,1,2018,2018,24
+TER,Teller,1,2006,2006,24
+TPO,PORT ALSWORTH,1,2000,2000,24
+UBW,UGNU-KUPARUK,1,2000,2000,24
+UUO,Willow,1,2008,2008,24
+W39,ROCHE HARBOR,1,2000,2000,24
+X66,CHARLOTTE AMALIE HARBOR,1,2000,2000,24
+X67,CHRISTIANSTED HARBOR-SSB,1,2000,2000,24

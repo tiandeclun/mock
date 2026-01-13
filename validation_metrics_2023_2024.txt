@@ -1,0 +1,9 @@
+Hold-out Validation (train<=2022, val=2023–2024)
+MAE  : 446,091
+RMSE : 1,052,656
+MAPE : 108.65%
+WMAPE : 20.71%
+MedAPE: 92.59%
+Top30 WMAPE: 12.18%
+Top30 MedAPE: 12.16%
+R^2  : 0.9723
